@@ -1,0 +1,1546 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <meta charset="utf-8" />
+<style>/* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */.js img.lazyload:not([src]) { visibility: hidden; }/* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */.js img.lazyloaded[data-sizes=auto] { display: block; width: 100%; }</style>
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://ecbdata.matomo.cloud/" : "http://ecbdata.matomo.cloud/");_paq.push(["setSiteId", "3"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<meta name="description" content="The Governing Council of the ECB sets the key interest rates for the euro area. These are the interest rates on the main refinancing operations, the deposit facility and the marginal lending facility." />
+<link rel="canonical" href="https://data.ecb.europa.eu/main-figures/ecb-interest-rates-and-exchange-rates/key-ecb-interest-rates" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #4076bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<link rel="icon" href="/themes/custom/edp/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://data.ecb.europa.eu/main-figures/ecb-interest-rates-and-exchange-rates/key-ecb-interest-rates" />
+<style>
+    .layout-container {
+      background-image: url(/sites/default/files/styles/lp_background_banner_max/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=ylrsN85X);
+    }
+    @media (max-width: 558px) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_m/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=u_6lvN_A);
+      }
+    }
+    @media (min-width: 559px) and (max-width: 767px) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_m/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=u_6lvN_A);
+      }
+    }
+    @media (min-width: 768px) and (max-width: 1022px) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_l/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=RWCLcPKJ);
+      }
+    }
+    @media (min-width: 1023px) and (max-width: 1250px) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_l/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=RWCLcPKJ);
+      }
+    }
+    @media (min-width: 1251px) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_max/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=ylrsN85X);
+      }
+    }
+    @media (max-width: 558px)and (min-device-pixel-ratio: 1.5) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_m/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=u_6lvN_A);
+      }
+    }
+    @media (min-width: 559px) and (max-width: 767px)and (min-device-pixel-ratio: 1.5) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_m/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=u_6lvN_A);
+      }
+    }
+    @media (min-width: 768px) and (max-width: 1022px)and (min-device-pixel-ratio: 1.5) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_l/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=RWCLcPKJ);
+      }
+    }
+    @media (min-width: 1023px) and (max-width: 1250px)and (min-device-pixel-ratio: 1.5) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_l/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=RWCLcPKJ);
+      }
+    }
+    @media (min-width: 1023px) and (max-width: 1250px)and (min-device-pixel-ratio: 1.5) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_l/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=RWCLcPKJ);
+      }
+    }
+    @media (min-width: 1251px)and (min-device-pixel-ratio: 1.5) {
+      .layout-container {
+        background-image: url(/sites/default/files/styles/lp_background_banner_max/public/2021-11/Homepage%20image%20without%20blur2.jpg?itok=ylrsN85X);
+      }
+    }</style>
+<style>
+    .layout--edp_methodology_block_layout {
+      background-image: url(/sites/default/files/styles/lp_background_banner_max/public/2023-02/banknote.png?itok=PMYGWr8u);
+    }
+    @media (max-width: 558px) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_m/public/2023-02/banknote.png?itok=3nMEag3y);
+      }
+    }
+    @media (min-width: 559px) and (max-width: 767px) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_m/public/2023-02/banknote.png?itok=3nMEag3y);
+      }
+    }
+    @media (min-width: 768px) and (max-width: 1022px) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_l/public/2023-02/banknote.png?itok=N3j8HV2a);
+      }
+    }
+    @media (min-width: 1023px) and (max-width: 1250px) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_l/public/2023-02/banknote.png?itok=N3j8HV2a);
+      }
+    }
+    @media (min-width: 1251px) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_max/public/2023-02/banknote.png?itok=PMYGWr8u);
+      }
+    }
+    @media (max-width: 558px)and (min-device-pixel-ratio: 1.5) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_m/public/2023-02/banknote.png?itok=3nMEag3y);
+      }
+    }
+    @media (min-width: 559px) and (max-width: 767px)and (min-device-pixel-ratio: 1.5) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_m/public/2023-02/banknote.png?itok=3nMEag3y);
+      }
+    }
+    @media (min-width: 768px) and (max-width: 1022px)and (min-device-pixel-ratio: 1.5) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_l/public/2023-02/banknote.png?itok=N3j8HV2a);
+      }
+    }
+    @media (min-width: 1023px) and (max-width: 1250px)and (min-device-pixel-ratio: 1.5) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_l/public/2023-02/banknote.png?itok=N3j8HV2a);
+      }
+    }
+    @media (min-width: 1023px) and (max-width: 1250px)and (min-device-pixel-ratio: 1.5) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_l/public/2023-02/banknote.png?itok=N3j8HV2a);
+      }
+    }
+    @media (min-width: 1251px)and (min-device-pixel-ratio: 1.5) {
+      .layout--edp_methodology_block_layout {
+        background-image: url(/sites/default/files/styles/lp_background_banner_max/public/2023-02/banknote.png?itok=PMYGWr8u);
+      }
+    }</style>
+
+  <title>Key ECB interest rates | ECB Data Portal</title>
+  <link rel="stylesheet" media="all" href="/sites/default/files/css/css_q5uaQsbTOWZS0sR4gsqD0rp8D09qf1f63VJYwsKBsfY.css?delta=0&amp;language=en&amp;theme=edp&amp;include=eJxtUgGO4yAM_FA2eRJywGmsGhxh093s68-EvVa3V0VBeLCZYeyV4ftcWCBRuU0JzL-VUZfXNkSpOGE6lhWUYjD8shGKmFqFI4QCjzfQCnWgFSHF2vJ6hQkNiD8OuI1r_Q-dzonyAZVUSshUKNM3pmcGy40clwT8xDLaLkn86AwrS7wHhlOaPRM6R9idnang70OTw59zMStGIylvjhR_F9wPChFq6os0xSFnI-QhdnMPcDy8M_9se5VmYL5qLygDlY-MpY3oDBs8pJKhXoBrkpKgnq8cZfI3bvQ1IokEHHSH0Z-wIaYVugsiQ_E_SGDyBjS3We6El9tMUCIu78CQcIPGNm2dlKxPSXTvh4khkUZ5YD0XKS6UJ-8c3Lzzu89ObQfw_ELmVo62MunuDf2RnTERuKRyV7esGHyiSsa5K_Ari71L_B-abceMk55qmPuE4uQ9qX819P30IPzU5VpnH6DG-AcT3igZ" />
+<link rel="stylesheet" media="all" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_NTw_aa05K5eKkhCJScNPK7eTEmocuVKmrPpAA9tuek0.css?delta=2&amp;language=en&amp;theme=edp&amp;include=eJxtUgGO4yAM_FA2eRJywGmsGhxh093s68-EvVa3V0VBeLCZYeyV4ftcWCBRuU0JzL-VUZfXNkSpOGE6lhWUYjD8shGKmFqFI4QCjzfQCnWgFSHF2vJ6hQkNiD8OuI1r_Q-dzonyAZVUSshUKNM3pmcGy40clwT8xDLaLkn86AwrS7wHhlOaPRM6R9idnang70OTw59zMStGIylvjhR_F9wPChFq6os0xSFnI-QhdnMPcDy8M_9se5VmYL5qLygDlY-MpY3oDBs8pJKhXoBrkpKgnq8cZfI3bvQ1IokEHHSH0Z-wIaYVugsiQ_E_SGDyBjS3We6El9tMUCIu78CQcIPGNm2dlKxPSXTvh4khkUZ5YD0XKS6UJ-8c3Lzzu89ObQfw_ELmVo62MunuDf2RnTERuKRyV7esGHyiSsa5K_Ari71L_B-abceMk55qmPuE4uQ9qX819P30IPzU5VpnH6DG-AcT3igZ" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css__cgfkGeZflGs_jULqFZN-e5LvmwNjZD-QdFSjYRhKlM.css?delta=3&amp;language=en&amp;theme=edp&amp;include=eJxtUgGO4yAM_FA2eRJywGmsGhxh093s68-EvVa3V0VBeLCZYeyV4ftcWCBRuU0JzL-VUZfXNkSpOGE6lhWUYjD8shGKmFqFI4QCjzfQCnWgFSHF2vJ6hQkNiD8OuI1r_Q-dzonyAZVUSshUKNM3pmcGy40clwT8xDLaLkn86AwrS7wHhlOaPRM6R9idnang70OTw59zMStGIylvjhR_F9wPChFq6os0xSFnI-QhdnMPcDy8M_9se5VmYL5qLygDlY-MpY3oDBs8pJKhXoBrkpKgnq8cZfI3bvQ1IokEHHSH0Z-wIaYVugsiQ_E_SGDyBjS3We6El9tMUCIu78CQcIPGNm2dlKxPSXTvh4khkUZ5YD0XKS6UJ-8c3Lzzu89ObQfw_ELmVo62MunuDf2RnTERuKRyV7esGHyiSsa5K_Ari71L_B-abceMk55qmPuE4uQ9qX819P30IPzU5VpnH6DG-AcT3igZ" />
+
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/964923","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyNVNGS2yAM_CHHfun_MAJkWxeBXMC5-L6-ApzLXZtpO5kh0iILsSthGT6OydZ1aOvkGHJmyuX0WcCf5iZ8zMT8cJMEynh6CebTeke7DVak5JJg-2GCeODJ5tMaPQHLMsIb3AfHhLFk8mhuwOShkETz9nPHpKXcxm6NNOP_hp57_47foBRMcQxYVvGDk4STT_umFc6SQgco1hiFzuxtR1PpzzLm6Wm-Rk3NMqCzxkNerUDy03WjSw7AfHHqDui3yUImZwreS3cf5BkT4fYCspA6mhC8S3uwzXW6mA0WNKviTBENwyF7z1qrMh4LEPcgt0I6txp6qWjza54W7iRskCgrc4EiBfpA_xmhKlLson5inU3RrcNYFnf9WsFfy6ubRTbloZ2c0VXBXmxl_P0DZdRULusie8ZezkzIvdhZycPOWD35YUrAVk1GSG5t2OtMFW2KmU_FAlC8BIx79w4zw00SFW2ECmj1Ej2k4xmjQ6VszHTvnjgdA5NVgka5mRG9hcqXSL_bN8QwNY3Nb1VPDHHZ1b8UWRbuub4IM9Xe--Kr6OiuA-4qrVwJm8JMEB1Or0BtmBl2LkNXynjKTm51hCTqHXnoj0R9PwIUCTL1v0HbBhbt1zU_puqJjHvcdquPzKrdlMDT_dnfp5_LoZdpnHXmRtQZictwEhdQn5E-N98g5SlesyoeC7xjVrLGehktNpZXgX9CY1kx6NFHLhjqCThoI6THLao93Ajf89TWUWndGX8BY9sO4w","theme":"edp","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/main-figures\/ecb-interest-rates-and-exchange-rates\/key-ecb-interest-rates?utm_source=chatgpt.com\u0026ajax_form=1":true},"clientside_validation_jquery":{"validate_all_ajax_forms":1,"force_validate_on_blur":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"edp_feedback_loop":[{"xs":"5"},{"sm":"5"},{"md":"3"},{"lg":"3"},{"xs_prio":["feedback-answer_6"]},{"sm_prio":["feedback-answer_6"]},{"md_prio":["feedback-answer_6"]},{"lg_prio":[]}],"lazy":{"lazysizes":{"lazyClass":"lazyload","loadedClass":"lazyloaded","loadingClass":"lazyloading","preloadClass":"lazypreload","errorClass":"lazyerror","autosizesClass":"lazyautosizes","srcAttr":"data-src","srcsetAttr":"data-srcset","sizesAttr":"data-sizes","minSize":40,"customMedia":[],"init":true,"expFactor":1.5,"hFac":0.8,"loadMode":2,"loadHidden":true,"ricTimeout":0,"throttleDelay":125,"plugins":[]},"placeholderSrc":"","preferNative":true,"minified":true,"libraryPath":"\/libraries\/lazysizes"},"matomo":{"disableCookies":false,"trackMailto":true},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":true,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message col-12\u0022\u003E\n      \u003Ch2\u003EOur website uses cookies\u003C\/h2\u003E\u003Cp\u003EWe are always working to improve this website for our users. To do this, we use the anonymous data provided by cookies.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ELearn more about how we use cookies\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons col-12\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EI understand and I accept the use of cookies\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003EI do not accept the use of cookies\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message col-12\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ELearn more about how we use cookies\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons col-12\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EI understand and I accept the use of cookies\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003EI do not accept the use of cookies\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-thank-you\u0022\u003E\n  \u003Cdiv class=\u0022popup-content agreed eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EThank you!\u003C\/h2\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":270,"popup_width":"100%","popup_delay":100,"popup_link":"\/privacy-statement-ecb-data-portal","popup_link_new_window":false,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":180,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":false,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"edp_wide_ref_filters":{"euCountries":[{"countryIsoCode":"AT","countryName":"Austria"},{"countryIsoCode":"BE","countryName":"Belgium"},{"countryIsoCode":"BG","countryName":"Bulgaria"},{"countryIsoCode":"CY","countryName":"Cyprus"},{"countryIsoCode":"CZ","countryName":"Czech Republic"},{"countryIsoCode":"DK","countryName":"Denmark"},{"countryIsoCode":"EE","countryName":"Estonia"},{"countryIsoCode":"ES","countryName":"Spain"},{"countryIsoCode":"FI","countryName":"Finland"},{"countryIsoCode":"FR","countryName":"France"},{"countryIsoCode":"HR","countryName":"Croatia"},{"countryIsoCode":"HU","countryName":"Hungary"},{"countryIsoCode":"IE","countryName":"Ireland"},{"countryIsoCode":"IT","countryName":"Italy"},{"countryIsoCode":"LT","countryName":"Lithuania"},{"countryIsoCode":"LU","countryName":"Luxembourg"},{"countryIsoCode":"LV","countryName":"Latvia"},{"countryIsoCode":"MT","countryName":"Malta"},{"countryIsoCode":"NL","countryName":"Netherlands"},{"countryIsoCode":"PL","countryName":"Poland"},{"countryIsoCode":"PT","countryName":"Portugal"},{"countryIsoCode":"DE","countryName":"Germany"},{"countryIsoCode":"RO","countryName":"Romania"},{"countryIsoCode":"SE","countryName":"Sweden"},{"countryIsoCode":"SI","countryName":"Slovenia"},{"countryIsoCode":"SK","countryName":"Slovakia"},{"countryIsoCode":"D0","countryName":"EU (changing composition)"},{"countryIsoCode":"GR","countryName":"Greece"},{"countryIsoCode":"V5","countryName":"EU27 (fixed composition) as of brexit"},{"countryIsoCode":"B6","countryName":"EU27 (fixed composition)"}],"muCountries":[{"countryIsoCode":"AT","countryName":"Austria"},{"countryIsoCode":"BE","countryName":"Belgium"},{"countryIsoCode":"CY","countryName":"Cyprus"},{"countryIsoCode":"EE","countryName":"Estonia"},{"countryIsoCode":"ES","countryName":"Spain"},{"countryIsoCode":"FI","countryName":"Finland"},{"countryIsoCode":"FR","countryName":"France"},{"countryIsoCode":"HR","countryName":"Croatia"},{"countryIsoCode":"IE","countryName":"Ireland"},{"countryIsoCode":"IT","countryName":"Italy"},{"countryIsoCode":"LT","countryName":"Lithuania"},{"countryIsoCode":"LU","countryName":"Luxembourg"},{"countryIsoCode":"LV","countryName":"Latvia"},{"countryIsoCode":"MT","countryName":"Malta"},{"countryIsoCode":"NL","countryName":"Netherlands"},{"countryIsoCode":"PT","countryName":"Portugal"},{"countryIsoCode":"DE","countryName":"Germany"},{"countryIsoCode":"SI","countryName":"Slovenia"},{"countryIsoCode":"SK","countryName":"Slovakia"},{"countryIsoCode":"GR","countryName":"Greece"}],"omCountries":[{"countryIsoCode":"BG","countryName":"Bulgaria"},{"countryIsoCode":"CZ","countryName":"Czech Republic"},{"countryIsoCode":"DK","countryName":"Denmark"},{"countryIsoCode":"HU","countryName":"Hungary"},{"countryIsoCode":"PL","countryName":"Poland"},{"countryIsoCode":"RO","countryName":"Romania"},{"countryIsoCode":"SE","countryName":"Sweden"},{"countryIsoCode":"D0","countryName":"EU (changing composition)"},{"countryIsoCode":"V5","countryName":"EU27 (fixed composition) as of brexit"},{"countryIsoCode":"B6","countryName":"EU27 (fixed composition)"}]},"home_path":"https:\/\/data.ecb.europa.eu\/","ajax":{"edit-submit--3":{"callback":"edp_login_modal_user_register_ajax_callback","wrapper":"edp-user-register-form-wrapper","disable-refocus":true,"event":"mousedown","keypress":true,"prevent":"click","url":"\/main-figures\/ecb-interest-rates-and-exchange-rates\/key-ecb-interest-rates?utm_source=chatgpt.com\u0026ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}},"edit-button":{"callback":"edp_login_modal_user_login_ajax_callback","wrapper":"edp-user-login-form-wrapper","disable-refocus":true,"event":"mousedown","keypress":true,"prevent":"click","url":"\/main-figures\/ecb-interest-rates-and-exchange-rates\/key-ecb-interest-rates?utm_source=chatgpt.com\u0026ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Login"}}},"password":{"confirmTitle":"Passwords match:","confirmSuccess":"yes","confirmFailure":"no","showStrengthIndicator":false},"datatables":{"#datatable":{"aaSorting":[],"aoColumns":[{"sType":"html","bSortable":true,"sFilterColumnType":false},{"bSortable":false,"sFilterColumnType":false},{"bSortable":false,"sFilterColumnType":false}],"aoColumnHeaders":[{"content":"Dataset","title":"sort by Dataset","default_classes":true,"attributes":" id=\u0022view-field-dataset-description-table-column\u0022 aria-sort=\u0022ascending\u0022 class=\u0022views-field views-field-field-dataset-description is-active\u0022 scope=\u0022col\u0022"},{"content":"Bulk download","default_classes":true,"attributes":" id=\u0022view-nothing-1-table-column\u0022 class=\u0022views-field views-field-nothing-1\u0022 scope=\u0022col\u0022"},{"content":"Calendar","default_classes":true,"attributes":" id=\u0022view-field-release-calendar-table-column\u0022 class=\u0022views-field views-field-field-release-calendar\u0022 scope=\u0022col\u0022"}],"bInfo":0,"bFilter":0,"bStateSave":0,"sFilterColumnsPlaceholder":"- Filter -","bFilterColumns":false,"bLengthChange":0,"iDisplayLength":0,"bAutoWidth":0,"bPaginate":false,"oLanguage":{"sEmptyTable":"No data available in table","sInfo":"Start _START_ to _END_ of _TOTAL_ entries","sInfoEmpty":"Showing 0 to 0 of 0 entries","sInfoFiltered":"(filtered from _MAX_ total entries)","sInfoPostFix":"","sProcessing":"Processing...","sLengthMenu":"Show _MENU_ entries","sLoadingRecords":"Loading...","sZeroRecords":"No matching records found","sSearch":"","oPaginate":{"sFirst":"First","sPrevious":"Previous","sNext":"Next","sLast":"Last"},"oAria":{"sSortAscending":": activate to sort column ascending","sSortDescending":": activate to sort column descending"}}}},"data_comparison":{"token_url":"https:\/\/data.ecb.europa.eu\/session\/token","add_url":"https:\/\/data.ecb.europa.eu\/data-comparison\/add-timeseries","embedded_url":"\/embedded\/highlights\/{page_id}\/{group_id}\/{indicator_id}\/{chart_type}"},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":25,"container":"","loader":true,"unblazy":false,"visibleClass":false},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"pauseOnHover":true,"pauseOnDotsHover":false,"pauseOnFocus":true,"autoplaySpeed":3000,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"edp_homepage_search":{"languageIds":["de","en"],"currentPath":"\/search-results?searchTerm=FM.M.U2.EUR.RT.MM.EURIBOR1MD_.HSTA%09FM.M.U2.EUR.RT.MM.EURIBOR3MD_.HSTA%09FM.M.U2.EUR.RT.MM.EURIBOR6MD_.HSTA%09FM.M.U2.EUR.RT.MM.EURIBOR1YD_.HSTA%09FM.M.U2.EUR.4F.MM.EONIA.HSTA%09FM.Q.U2.EUR.RT.MM.EURIBOR3MD_.HSTA%09FM.A.U2.EUR.RT.MM.EURIBOR3MD_.HSTA%09FM.Q.U2.EUR.4F.MM.EONIA.HSTA%09FM.A.U2.EUR.4F.MM.EONIA.HSTA%09FM.M.U2.EUR.DS.EI.DJES50I.HSTA%09FM.M.U2.EUR.DS.EI.S1ESBME.HSTA%09FM.M.U2.EUR.DS.EI.S1ESCSE.HSTA%09FM.M.U2.EUR.DS.EI.S1ESCGE.HSTA%09FM.M.U2.EUR.DS.EI.S1ESO1E.HSTA%09FM.M.U2.EUR.DS.EI.S1ESFNE.HSTA%09FM.M.U2.EUR.DS.EI.S1ESIDE.HSTA%09FM.M.U2.EUR.DS.EI.S1ESG1E.HSTA%09FM.M.U2.EUR.DS.EI.S1ESU1E.HSTA%09FM.M.U2.EUR.DS.EI.S1EST1E.HSTA%09FM.M.U2.EUR.DS.EI.S1ESH1E.HSTA%09FM.M.U2.EUR.4F.BB.U2_10Y.YLD%09FM.M.U2.EUR.4F.BB.U2_2Y.YLD%09FM.M.U2.EUR.4F.BB.U2_3Y.YLD%09FM.M.U2.EUR.4F.BB.U2_5Y.YLD%09FM.M.U2.EUR.4F.BB.U2_7Y.YLD%09FM.M.U2.EUR.4F.CY.OILBRNI.HSTA","frontPage":false,"languagePrefixes":{"en":"","":null,"de":"de"}},"user":{"uid":0,"permissionsHash":"8d01659fc20cb721846daabf57eb90fb71008ac505f5a04a2eba14ec65702ed0"}}</script>
+<script src="/sites/default/files/js/js_B1rI3Ro3-W6oi_xScM3m8yGRYvjy7r99MNnv2QaxcPI.js?scope=header&amp;delta=0&amp;language=en&amp;theme=edp&amp;include=eJyNU9GS2yAM_CHbvPR_GAGyrQQQBexe8vUV4OSunZtpx2Oyuyga7YKNh-dDmbZOfVXWQymeSr24Z3AXTOwfK3n_opkDFbxYhvVCv9CkyTDXUjOkHzqwA69MudDiCDxvC9zgY7KeMNZCDvUJnhxU4qhvPw_MMsq5DLTQiv9beu39uz5BrZjjErDu7CbLGZXLR5IJV85hCBRbjUhX974jreQxHov6hN-runWZ0BrtoOyGITt1TzSXAN7PVuiELql3WlpHOLvUemiHFcjrBBtqu0OuY6urc1M7l1f3csshQaYiPgNFCvRE966QzCmOI-ianCQWODFrT2YoMgXmDncE94IcsA9QELLdu3YrT0rv_4kh3ay0hY-Co38AinPAeAz20CucnKlKVE0oaDk6yI_PGrl29q5X-hiMrVwUXcR2t6lXRGdAKjzzsPSH8hpH_zWw8hC3Q_hcedv86PUlDNVO5wuXoNHeJzwkTr4T9lQ9QbSovhOn8Zm0LyhA5cBq_EzdzjC1IBSK2yTh5Ncla_g3o9pa9g"></script>
+
+</head>
+<body class="path-node page-node-type-topic">
+<a href="#main-content" class="visually-hidden focusable">
+  Skip to main content
+</a>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<style>
+	#advance-fake-overlay {
+		position: fixed;
+		display: none;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		height: 100vh;
+
+		border: 1px solid #979797;
+		opacity: 0.58;
+		background-color: #0B0A0A;
+
+		z-index: 10;
+	}
+
+	#advance-fake-modal {
+		position: fixed;
+		display: none;
+		top: 50%;
+		left: 49.5% !important;
+		transform: translate(-50%, -50%) !important;
+		opacity: 1;
+		background-color: #ffffff;
+		z-index: 100;
+		width: 90% !important;
+		height: 646px !important;
+		padding-top: 21px !important;
+		overflow-y: hidden;
+	}
+	.search-results-page {
+		overflow-x: hidden !important;
+	}
+	#advance-fake-overlay.show,
+	#advance-fake-modal.show {
+		display: block;
+	}
+</style>
+<div id="advance-fake-overlay"></div>
+<div id="advance-fake-modal">
+	<div class="ajax-progress ajax-progress-throbber ajax-progress-parent-selector">
+		<div class="throbber">&nbsp;</div>
+	</div>
+</div>
+ <script>
+  const currentUrlParams = new URLSearchParams(window.location.search);
+  let showModalExists = currentUrlParams.get('showDatasetModal');
+  if (showModalExists == 'true') {
+    let fakeOverlay = document.getElementById("advance-fake-overlay");
+    fakeOverlay.classList.add("show");
+    let fakeModal = document.getElementById("advance-fake-modal");
+    fakeModal.classList.add("show");
+  }
+</script>
+
+<div class="layout-container ">
+	<header role="banner" class="edp-page-header">
+		
+		<div class="container">
+			<div class="header-top-wrapper">    <div class="logos-wrapper">
+  <div class="header-logo">
+          <a href="https://www.ecb.europa.eu" target="_blank" rel="home">
+        <img class="headerImg-mobile" src="/themes/custom/edp/assets/svg/logo.svg" alt="Home" />
+      </a>
+      </div>
+  <div class="headerline-mobile d-block d-sm-block d-md-none"></div>
+  <div class="tag-line"><a href="/" rel="home">ECB Data Portal</a></div>
+</div>
+
+
+				<div class="user-account-wrapper">  
+<div class="language-switcher-language-url settings-tray-editable block block--languageswitcher" role="navigation" data-drupal-settingstray="editable">
+  
+  
+
+    <div class="language-switcher-wrapper">
+  <div class="header-icon-list">
+    
+<div class="cart-block">
+  <a href="/data-cart" class="empty-cart">Data Cart</a>
+  </div>
+  <div class="login-block login-image">
+    <a href="/user/login" class="user-login">Login</a>
+  </div>
+
+<div class='contacts-block'>
+<a class="icon-text" href="https://data.ecb.europa.eu/help/contact-us" target="_blank" rel="noopener noreferrer">Contact us</a>
+
+</div>
+
+
+
+  </div>
+  </div>
+</div>
+
+</div>
+			</div>
+			<div class="header-wrapper">
+				<div class="header-menu">
+					<div class="hamburger">
+						<button id="hamburger-button" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#openSecondaryMenu" aria-expanded="false" aria-label="Toggle navigation">
+							<div class="hamburger-button-content">
+								<span></span>
+								<span></span>
+								<span></span>
+								<span></span>
+							</div>
+						</button>
+						  
+
+
+      
+
+
+
+
+<div class="secondary-menu">
+																		<ul class="nav">
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/node/1" class="nav-link" data-drupal-link-system-path="node/1">Homepage</a>
+											</li>
+														<li class="nav-item secondary-menu-items active dropdown">
+																			              <div class="menu-link">
+                <a href="/main-figures" id="dropdown-menu-0" class="nav-link" data-drupal-link-system-path="node/964912">Main figures</a>
+                <span class="show-hide anchor-plus"></span>
+              </div>
+															<div class="dropdown-menu" aria-labelledby=dropdown-menu-0>
+									                  																			<ul class="nav">
+														<li class="nav-item secondary-menu-items active dropdown">
+																			              <div class="menu-link">
+                <a href="/main-figures/ecb-interest-rates-and-exchange-rates" id="dropdown-menu-1" class="nav-link" data-drupal-link-system-path="node/964913">ECB interest rates and exchange rates</a>
+                <span class="show-hide anchor-plus"></span>
+              </div>
+															<div class="dropdown-menu" aria-labelledby=dropdown-menu-1>
+									                  																			<ul class="nav">
+														<li class="nav-item secondary-menu-items active ">
+																			<a href="/main-figures/ecb-interest-rates-and-exchange-rates/key-ecb-interest-rates" class="nav-link is-active" data-drupal-link-system-path="node/964923" aria-current="page">Key ECB interest rates</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/ecb-interest-rates-and-exchange-rates/exchange-rates" class="nav-link" data-drupal-link-system-path="node/964924">Exchange rates</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/ecb-interest-rates-and-exchange-rates/harmonised-competitiveness-indicators" class="nav-link" data-drupal-link-system-path="node/964918">Competitiveness indicators</a>
+											</li>
+							</ul>
+			
+								</div>
+																		</li>
+														<li class="nav-item secondary-menu-items  dropdown">
+																			              <div class="menu-link">
+                <a href="/main-figures/bank-interest-rates" id="dropdown-menu-1" class="nav-link" data-drupal-link-system-path="node/2044994">Bank interest rates</a>
+                <span class="show-hide anchor-plus"></span>
+              </div>
+															<div class="dropdown-menu" aria-labelledby=dropdown-menu-1>
+									                  																			<ul class="nav">
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/bank-interest-rates/deposits" class="nav-link" data-drupal-link-system-path="node/964914">Deposits</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/bank-interest-rates/loans" class="nav-link" data-drupal-link-system-path="node/2044995">Loans</a>
+											</li>
+							</ul>
+			
+								</div>
+																		</li>
+														<li class="nav-item secondary-menu-items  dropdown">
+																			              <div class="menu-link">
+                <a href="/main-figures/bank-balance-sheets" id="dropdown-menu-1" class="nav-link" data-drupal-link-system-path="node/964915">Bank balance sheets</a>
+                <span class="show-hide anchor-plus"></span>
+              </div>
+															<div class="dropdown-menu" aria-labelledby=dropdown-menu-1>
+									                  																			<ul class="nav">
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/banks-balance-sheet/deposits" class="nav-link" data-drupal-link-system-path="node/964925">Deposits</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/banks-balance-sheet/loans" class="nav-link" data-drupal-link-system-path="node/964926">Loans</a>
+											</li>
+							</ul>
+			
+								</div>
+																		</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/inflation" class="nav-link" data-drupal-link-system-path="node/964935">Inflation</a>
+											</li>
+														<li class="nav-item secondary-menu-items  dropdown">
+																			              <div class="menu-link">
+                <a href="/main-figures/macroeconomic-and-sectoral-indicators" id="dropdown-menu-1" class="nav-link" data-drupal-link-system-path="node/964922">Macroeconomic and sectoral indicators</a>
+                <span class="show-hide anchor-plus"></span>
+              </div>
+															<div class="dropdown-menu" aria-labelledby=dropdown-menu-1>
+									                  																			<ul class="nav">
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/macroeconomic-and-sectoral-indicators/gdp-and-expenditure-components" class="nav-link" data-drupal-link-system-path="node/964939">GDP and expenditure components</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/macroeconomic-and-sectoral-indicators/corporations" class="nav-link" data-drupal-link-system-path="node/2782922">Corporations</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/macroeconomic-and-sectoral-indicators/households" class="nav-link" data-drupal-link-system-path="node/2782917">Households</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/macroeconomic-and-sectoral-indicators/government-finance-statistics" class="nav-link" data-drupal-link-system-path="node/964942">Government finance statistics</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/macroeconomic-and-sectoral-indicators/labour-market-indicators" class="nav-link" data-drupal-link-system-path="node/964940">Labour market indicators</a>
+											</li>
+							</ul>
+			
+								</div>
+																		</li>
+														<li class="nav-item secondary-menu-items  dropdown">
+																			              <div class="menu-link">
+                <a href="/main-figures/external-sector" id="dropdown-menu-1" class="nav-link" data-drupal-link-system-path="node/964919">External sector</a>
+                <span class="show-hide anchor-plus"></span>
+              </div>
+															<div class="dropdown-menu" aria-labelledby=dropdown-menu-1>
+									                  																			<ul class="nav">
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/external-sector/current-account" class="nav-link" data-drupal-link-system-path="node/964931">Current account</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/external-sector/current-account-main-counterparties" class="nav-link" data-drupal-link-system-path="node/964932">Current account by main counterparties</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/external-sector/financial-account" class="nav-link" data-drupal-link-system-path="node/964933">Financial account</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/external-sector/international-investment-position" class="nav-link" data-drupal-link-system-path="node/964934">International investment position</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/external-sector/external-debt" class="nav-link" data-drupal-link-system-path="node/2781009">External debt</a>
+											</li>
+							</ul>
+			
+								</div>
+																		</li>
+														<li class="nav-item secondary-menu-items  dropdown">
+																			              <div class="menu-link">
+                <a href="/main-figures/investment-funds" id="dropdown-menu-1" class="nav-link" data-drupal-link-system-path="node/964917">Investment funds</a>
+                <span class="show-hide anchor-plus"></span>
+              </div>
+															<div class="dropdown-menu" aria-labelledby=dropdown-menu-1>
+									                  																			<ul class="nav">
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/investment-funds/assets-and-liabilities" class="nav-link" data-drupal-link-system-path="node/964929">Assets and liabilities</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/investment-funds/investment-policy-and-type-fund" class="nav-link" data-drupal-link-system-path="node/964930">Investment policy and type of fund</a>
+											</li>
+							</ul>
+			
+								</div>
+																		</li>
+														<li class="nav-item secondary-menu-items  dropdown">
+																			              <div class="menu-link">
+                <a href="/main-figures/securities" id="dropdown-menu-1" class="nav-link" data-drupal-link-system-path="node/964916">Securities</a>
+                <span class="show-hide anchor-plus"></span>
+              </div>
+															<div class="dropdown-menu" aria-labelledby=dropdown-menu-1>
+									                  																			<ul class="nav">
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/securities/debt-securities" class="nav-link" data-drupal-link-system-path="node/964927">Debt securities</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/securities/listed-shares" class="nav-link" data-drupal-link-system-path="node/964928">Listed shares</a>
+											</li>
+							</ul>
+			
+								</div>
+																		</li>
+														<li class="nav-item secondary-menu-items  dropdown">
+																			              <div class="menu-link">
+                <a href="/main-figures/supervisory-banking-data" id="dropdown-menu-1" class="nav-link" data-drupal-link-system-path="node/2783208">Supervisory banking data</a>
+                <span class="show-hide anchor-plus"></span>
+              </div>
+															<div class="dropdown-menu" aria-labelledby=dropdown-menu-1>
+									                  																			<ul class="nav">
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/supervisory-banking-data/capital-adequacy-and-leverage" class="nav-link" data-drupal-link-system-path="node/3021087">Capital adequacy and leverage</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/supervisory-banking-data/balance-sheet-composition-and-profitability" class="nav-link" data-drupal-link-system-path="node/3021086">Balance sheet composition and profitability</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/supervisory-banking-data/asset-quality-0" class="nav-link">Asset quality</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/supervisory-banking-data/funding" class="nav-link" data-drupal-link-system-path="node/3021090">Funding</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/main-figures/supervisory-banking-data/liquidity" class="nav-link" data-drupal-link-system-path="node/3021088">Liquidity</a>
+											</li>
+							</ul>
+			
+								</div>
+																		</li>
+							</ul>
+			
+								</div>
+																		</li>
+														<li class="nav-item secondary-menu-items  dropdown">
+																			              <div class="menu-link">
+                <a href="/data" id="dropdown-menu-0" class="nav-link" data-drupal-link-system-path="node/1026927">Browse data</a>
+                <span class="show-hide anchor-plus"></span>
+              </div>
+															<div class="dropdown-menu" aria-labelledby=dropdown-menu-0>
+									                  																			<ul class="nav">
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/data/data-categories" class="nav-link" data-drupal-link-system-path="node/1026945">Data categories</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/data/concepts" class="nav-link" data-drupal-link-system-path="node/1026946">Concepts</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/data/geographical-areas" class="nav-link" data-drupal-link-system-path="node/1026947">Geographical areas</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/data/datasets" class="nav-link" data-drupal-link-system-path="node/1026948">Datasets</a>
+											</li>
+							</ul>
+			
+								</div>
+																		</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/publications" class="nav-link" data-drupal-link-system-path="node/2046478">Publications</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/ecb-data-blog" class="nav-link" data-drupal-link-system-path="node/1026928">Blog</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/methodology" class="nav-link" data-drupal-link-system-path="node/2045261">Methodology</a>
+											</li>
+														<li class="nav-item secondary-menu-items  ">
+																			<a href="/currency-converter" class="nav-link" data-drupal-link-system-path="node/964911">Currency converter</a>
+											</li>
+							</ul>
+			
+		<div class="menu-buttons">
+    
+<div class="cart-block">
+  <a href="/data-cart" class="empty-cart">Data Cart</a>
+  </div>
+  <div class="login-block login-image">
+    <a href="/user/login" class="user-login">Login</a>
+  </div>
+
+<div class='contacts-block'>
+<a class="icon-text" href="https://data.ecb.europa.eu/help/contact-us" target="_blank" rel="noopener noreferrer">Contact us</a>
+
+</div>
+
+
+
+	</div>
+</div>
+
+  
+
+
+					</div>
+					<a href="/" class="logo"></a>
+					  
+
+
+      
+
+
+
+
+<div class="main-menu-wrapper">
+      <ul class="nav-bar">
+                                  <li class="nav-item is-active">
+            <a href="/main-figures" data-drupal-link-system-path="node/964912">Main figures</a>
+          </li>
+                            <li class="nav-item ">
+            <a href="/data" data-drupal-link-system-path="node/1026927">Browse data</a>
+          </li>
+                            <li class="nav-item ">
+            <a href="/publications" data-drupal-link-system-path="node/2046478">Publications</a>
+          </li>
+                            <li class="nav-item ">
+            <a href="/ecb-data-blog" data-drupal-link-system-path="node/1026928">Blog</a>
+          </li>
+                            <li class="nav-item ">
+            <a href="/methodology" data-drupal-link-system-path="node/2045261">Methodology</a>
+          </li>
+                            <li class="nav-item ">
+            <a href="/currency-converter" data-drupal-link-system-path="node/964911">Currency converter</a>
+          </li>
+                            <li class="nav-item ">
+            <a href="/help/data/overview" data-drupal-link-system-path="node/2940109">Help</a>
+          </li>
+                  </ul>
+  </div>
+
+
+  
+
+
+																															
+<div id="homepage-search" data-props=eyJiZXR0ZXJfcmVzdWx0c19saW5rX3VybCI6Imh0dHBzOlwvXC9kYXRhLmVjYi5ldXJvcGEuZXVcL2hlbHBcL3NlYXJjaFwvaG93LWNhbi1pLXJlZmluZS1teS1zZWFyY2gtcmVzdWx0cyIsImJldHRlcl9yZXN1bHRzX2xpbmtfdGV4dCI6IkhvdyB0byBnZXQgYmV0dGVyIHJlc3VsdHMiLCJwb3B1bGFyX3dvcmRzIjpbIkluZmxhdGlvbiIsIkdEUCIsIk0zIiwiRXhjaGFuZ2UgcmF0ZXMiLCJOb24tcGVyZm9ybWluZyBsb2FucyJdLCJzZWFyY2hfcmVkaXJlY3RfcGFnZSI6Imh0dHBzOlwvXC9kYXRhLmVjYi5ldXJvcGEuZXVcL3NlYXJjaC1yZXN1bHRzIiwic2VhcmNoX3F1ZXJ5Ijoic2VhcmNoVGVybSIsImJyb3dzZV9ieSI6W3sibGFiZWwiOiJDYXRlZ29yaWVzIiwidXJsIjoiXC9kYXRhXC9kYXRhLWNhdGVnb3JpZXMifSx7ImxhYmVsIjoiQ29uY2VwdHMiLCJ1cmwiOiJcL2RhdGFcL2NvbmNlcHRzIn0seyJsYWJlbCI6Ikdlb2dyYXBoaWNhbCBhcmVhcyIsInVybCI6IlwvZGF0YVwvZ2VvZ3JhcGhpY2FsLWFyZWFzIn0seyJsYWJlbCI6IkRhdGFzZXRzIiwidXJsIjoiXC9kYXRhXC9kYXRhc2V0cyJ9XX0= data-context=header_navigation></div>
+
+																											</div>
+			</div>
+		</div>
+	</header>
+
+
+	
+
+	  
+  <div class="settings-tray-editable block block--breadcrumbs" data-drupal-settingstray="editable">
+
+  
+    
+
+      
+
+<div class="container">
+<div class="edp-breadcum d-sm-none d-md-block d-lg-block">
+  <nav aria-label="breadcrumb" class="">
+    <ol class="breadcrumb">
+              <li class="breadcrumb-item ">
+                      <a href="/">Home</a>
+                  </li>
+              <li class="breadcrumb-item ">
+                      <a href="/main-figures">Main figures</a>
+                  </li>
+              <li class="breadcrumb-item ">
+                      <a href="/main-figures/ecb-interest-rates-and-exchange-rates">ECB interest rates and exchange rates</a>
+                  </li>
+              <li class="breadcrumb-item ">
+                      <a href="/main-figures/ecb-interest-rates-and-exchange-rates/key-ecb-interest-rates">Key ECB interest rates</a>
+                  </li>
+          </ol>
+  </nav>
+</div>
+</div>
+
+  
+  </div>
+
+
+
+	
+
+	
+
+	<main role="main">
+		<a id="main-content" tabindex="-1"></a>
+		
+		<div class="container">
+			  <div data-drupal-messages-fallback class="hidden"></div>
+
+
+		</div>
+					<div class="layout-content">
+				  <article about="/main-figures/ecb-interest-rates-and-exchange-rates/key-ecb-interest-rates">
+
+  
+    
+
+  
+  <div>
+    
+
+
+
+ <div class="layout layout--edp_page_headline_layout">
+ <div class="containers-wrapper">
+    <div class="container social-block-removed">
+      <div class="title-social-wrapper">
+        <div class="row">
+
+                    <div  class="layout__region layout__region--header_left col-md-8 col-sm-10 col-10 has-title">
+                            
+  <div class="block">
+
+  
+    
+
+      
+<h1>Key ECB interest rates</h1>
+
+  
+  </div>
+
+                        </div>
+                             <div  class="layout__region layout__region--header_right col-md-4 col-sm-2 col-2">
+             
+  <div class="block">
+
+  
+    
+
+      
+
+<div class="social-media-sharing">
+  <div class="icon-btn"></div>
+  <ul class="showData">
+                    <li>
+        <a  class="twitter share"
+          href="#"
+          onclick="window.open(&#039;https://twitter.com/intent/tweet?url=&#039;+encodeURIComponent(window.location.href),&#039;twitter_share&#039;,&#039;width=600,height=400&#039;); return false;"
+          title="X">
+                      <img alt="X" src="https://data.ecb.europa.eu/themes/custom/edp/assets/svg/twitter-x.svg">
+                  </a>
+      </li>
+                <li>
+        <a  class="facebook-share share"
+          href="#"
+          onclick="window.open(&#039;https://www.facebook.com/sharer/sharer.php?u=&#039;+encodeURIComponent(window.location.href),&#039;facebook_share&#039;,&#039;width=600,height=400&#039;); return false;"
+          title="Facebook">
+                      <img alt="Facebook" src="https://data.ecb.europa.eu/themes/custom/edp/assets/svg/facebook.svg">
+                  </a>
+      </li>
+                <li>
+        <a  class="linkedin share"
+          href="#"
+          onclick="window.open(&#039;https://www.linkedin.com/shareArticle?url=&#039;+encodeURIComponent(window.location.href),&#039;linkedin_share&#039;,&#039;width=600,height=400&#039;); return false;"
+          title="Linkedin">
+                      <img alt="Linkedin" src="https://data.ecb.europa.eu/themes/custom/edp/assets/svg/linkedin.svg">
+                  </a>
+      </li>
+                <li>
+        <a  class="email share"
+          href="#"
+          onclick="window.open(&#039;mailto:?subject= Check out this page in the ECB Data Portal&amp;body=’’&#039; + encodeURIComponent(&quot;Key ECB interest rates&quot;) +&#039;’’ in the ECB Data Portal can be accessed via the following link: &#039;+encodeURIComponent(window.location.href)); return false;"
+          title="Email">
+                      <img alt="Email" src="https://data.ecb.europa.eu/themes/custom/edp/assets/svg/mail.svg">
+                  </a>
+      </li>
+      </ul>
+</div>
+
+
+  
+  </div>
+
+           </div>
+                </div>
+     </div>
+   </div>
+   </div>
+   <div class="content-wrapper">
+     <div class="container">
+       <div class="row">
+                    <div class=" col-lg-9 col-md-8">
+             <div  class="layout__region layout__region--content-left">
+                                
+  <div class="block">
+
+  
+    
+
+      
+
+
+            <div class="topic__body wysiwyg"><p>The Governing Council of the ECB sets the key interest rates for the euro area. These are the interest rates on the main refinancing operations, the deposit facility and the marginal lending facility.</p></div>
+      
+  
+  </div>
+
+                            </div>
+           </div>
+                         </div>
+     </div>
+   </div>
+ </div>
+  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="block">
+
+  
+    
+
+      
+
+
+			<div class="topic__field-kpi-card">
+							<div class="field__item container"><div class="slick blazy slick--field slick--field-kpi-card slick--field-kpi-card---custom slick--optionset--topic-kpi-carousel slick--multiple-view slick--less" data-blazy=""><div id="slick-ed6b70ce563" data-slick="{&quot;count&quot;:3,&quot;total&quot;:3,&quot;dots&quot;:true,&quot;infinite&quot;:false,&quot;lazyLoad&quot;:&quot;blazy&quot;,&quot;rows&quot;:0,&quot;slidesPerRow&quot;:5,&quot;slidesToShow&quot;:5,&quot;slidesToScroll&quot;:5,&quot;responsive&quot;:[{&quot;breakpoint&quot;:559,&quot;settings&quot;:{&quot;dots&quot;:true,&quot;infinite&quot;:false,&quot;slidesPerRow&quot;:2,&quot;slidesToShow&quot;:2,&quot;slidesToScroll&quot;:2,&quot;waitForAnimate&quot;:false}},{&quot;breakpoint&quot;:767,&quot;settings&quot;:{&quot;dots&quot;:true,&quot;infinite&quot;:false,&quot;slidesPerRow&quot;:2,&quot;slidesToShow&quot;:2,&quot;slidesToScroll&quot;:2,&quot;waitForAnimate&quot;:false}},{&quot;breakpoint&quot;:1024,&quot;settings&quot;:{&quot;dots&quot;:true,&quot;infinite&quot;:false,&quot;slidesPerRow&quot;:3,&quot;slidesToShow&quot;:3,&quot;slidesToScroll&quot;:3,&quot;waitForAnimate&quot;:false}}]}" class="slick__slider">  <div class="slick__slide slide slide--0">
+
+
+  <div class="paragraph paragraph--type--kpi-card paragraph--view-mode--default">
+          
+  <div id="wrappertabparagraph-615" class="flipover-small flipover ecb-small-card order-2 ecb-small-card">
+	<div class="item__inner front">
+		<div class="card-content" data-card-detail-url="/data/datasets/FM/FM.B.U2.EUR.4F.KR.MRR_FR.LEV">
+			<p id="small-card-titleparagraph-615" class="card-header ">Main refinancing operations</p>
+			<p class="card-header-date ">23 April 2025</p>
+			<p class="flex chart-ratio"><span>2.40 %</span> <img class="arrow relative top-2 left-2" src="/themes/custom/edp/components/block/edp_dashboard/images/dist/down.png"/>			</p>
+		</div>
+		<div class="action-bt--left">
+			<span><a href="/data/datasets/FM/FM.B.U2.EUR.4F.KR.MRR_FR.LEV" hreflang="en">View Data</a></span>
+		</div>
+		<div onclick="flipOver(event,'wrappertabparagraph-615', 'switchedTab')" data-series="FM.B.U2.EUR.4F.KR.MRR_FR.LEV" data-series-title="Main refinancing operations" class="action-bt">
+			<p>
+				<span>.</span>
+				<span>.</span>
+				<span>.</span>
+			</p>
+		</div>
+	</div>
+	<div class="item__inner back">
+		<div class="card-content">
+			<div class=" flip-container">
+				<h1 class="card-title font-bold">Quick info</h1>
+				<p class="flip-over-content">ECB Main refinancing operations - Date of changes - Level</p>
+                <div class="favorites-section" series-key-id="346569" data-series="FM.B.U2.EUR.4F.KR.MRR_FR.LEV" data-series="FM.B.U2.EUR.4F.KR.MRR_FR.LEV" data-series-title="Main refinancing operations">
+                  <p class="add"><a href="javascript:void(0);">Add to data cart<img src="/themes/custom/edp/components/block/edp_dashboard/images/dist/cart.svg"/></a></p>
+                  <p class="favorites"><a href="javascript:void(0);">Add to favourites<img src="/themes/custom/edp/components/block/edp_dashboard/images/dist/fav.svg"/></a></p>
+				</div>
+			</div>
+		</div>
+		<div onclick="flipOver(event,'wrappertabparagraph-615', 'switchedTab')" data-series="FM.B.U2.EUR.4F.KR.MRR_FR.LEV" data-series-title="Main refinancing operations" class="action-bt-close">
+			<span class="close-bt open-sans"></span>
+		</div>
+	</div>
+</div>
+
+      </div>
+</div>
+  <div class="slick__slide slide slide--1">
+
+
+  <div class="paragraph paragraph--type--kpi-card paragraph--view-mode--default">
+          
+  <div id="wrappertabparagraph-614" class="flipover-small flipover ecb-small-card order-2 ecb-small-card">
+	<div class="item__inner front">
+		<div class="card-content" data-card-detail-url="/data/datasets/FM/FM.B.U2.EUR.4F.KR.MLFR.LEV">
+			<p id="small-card-titleparagraph-614" class="card-header ">Marginal lending facility</p>
+			<p class="card-header-date ">23 April 2025</p>
+			<p class="flex chart-ratio"><span>2.65 %</span> <img class="arrow relative top-2 left-2" src="/themes/custom/edp/components/block/edp_dashboard/images/dist/down.png"/>			</p>
+		</div>
+		<div class="action-bt--left">
+			<span><a href="/data/datasets/FM/FM.B.U2.EUR.4F.KR.MLFR.LEV" hreflang="en">View Data</a></span>
+		</div>
+		<div onclick="flipOver(event,'wrappertabparagraph-614', 'switchedTab')" data-series="FM.B.U2.EUR.4F.KR.MLFR.LEV" data-series-title="Marginal lending facility" class="action-bt">
+			<p>
+				<span>.</span>
+				<span>.</span>
+				<span>.</span>
+			</p>
+		</div>
+	</div>
+	<div class="item__inner back">
+		<div class="card-content">
+			<div class=" flip-container">
+				<h1 class="card-title font-bold">Quick info</h1>
+				<p class="flip-over-content">ECB Marginal lending facility - date of changes (raw data) - Level</p>
+                <div class="favorites-section" series-key-id="346567" data-series="FM.B.U2.EUR.4F.KR.MLFR.LEV" data-series="FM.B.U2.EUR.4F.KR.MLFR.LEV" data-series-title="Marginal lending facility">
+                  <p class="add"><a href="javascript:void(0);">Add to data cart<img src="/themes/custom/edp/components/block/edp_dashboard/images/dist/cart.svg"/></a></p>
+                  <p class="favorites"><a href="javascript:void(0);">Add to favourites<img src="/themes/custom/edp/components/block/edp_dashboard/images/dist/fav.svg"/></a></p>
+				</div>
+			</div>
+		</div>
+		<div onclick="flipOver(event,'wrappertabparagraph-614', 'switchedTab')" data-series="FM.B.U2.EUR.4F.KR.MLFR.LEV" data-series-title="Marginal lending facility" class="action-bt-close">
+			<span class="close-bt open-sans"></span>
+		</div>
+	</div>
+</div>
+
+      </div>
+</div>
+  <div class="slick__slide slide slide--2">
+
+
+  <div class="paragraph paragraph--type--kpi-card paragraph--view-mode--default">
+          
+  <div id="wrappertabparagraph-613" class="flipover-small flipover ecb-small-card order-2 ecb-small-card">
+	<div class="item__inner front">
+		<div class="card-content" data-card-detail-url="/data/datasets/FM/FM.B.U2.EUR.4F.KR.DFR.LEV">
+			<p id="small-card-titleparagraph-613" class="card-header ">Deposit facility</p>
+			<p class="card-header-date ">23 April 2025</p>
+			<p class="flex chart-ratio"><span>2.25 %</span> <img class="arrow relative top-2 left-2" src="/themes/custom/edp/components/block/edp_dashboard/images/dist/down.png"/>			</p>
+		</div>
+		<div class="action-bt--left">
+			<span><a href="/data/datasets/FM/FM.B.U2.EUR.4F.KR.DFR.LEV" hreflang="en">View Data</a></span>
+		</div>
+		<div onclick="flipOver(event,'wrappertabparagraph-613', 'switchedTab')" data-series="FM.B.U2.EUR.4F.KR.DFR.LEV" data-series-title="Deposit facility" class="action-bt">
+			<p>
+				<span>.</span>
+				<span>.</span>
+				<span>.</span>
+			</p>
+		</div>
+	</div>
+	<div class="item__inner back">
+		<div class="card-content">
+			<div class=" flip-container">
+				<h1 class="card-title font-bold">Quick info</h1>
+				<p class="flip-over-content">ECB Deposit facility - date of changes (raw data) - Level</p>
+                <div class="favorites-section" series-key-id="346565" data-series="FM.B.U2.EUR.4F.KR.DFR.LEV" data-series="FM.B.U2.EUR.4F.KR.DFR.LEV" data-series-title="Deposit facility">
+                  <p class="add"><a href="javascript:void(0);">Add to data cart<img src="/themes/custom/edp/components/block/edp_dashboard/images/dist/cart.svg"/></a></p>
+                  <p class="favorites"><a href="javascript:void(0);">Add to favourites<img src="/themes/custom/edp/components/block/edp_dashboard/images/dist/fav.svg"/></a></p>
+				</div>
+			</div>
+		</div>
+		<div onclick="flipOver(event,'wrappertabparagraph-613', 'switchedTab')" data-series="FM.B.U2.EUR.4F.KR.DFR.LEV" data-series-title="Deposit facility" class="action-bt-close">
+			<span class="close-bt open-sans"></span>
+		</div>
+	</div>
+</div>
+
+      </div>
+</div>
+</div>
+          <nav class="slick__arrow">
+        <button type="button" data-role="none" class="slick-prev" aria-label="" tabindex="0"></button><button type="button" data-role="none" class="slick-next" aria-label="" tabindex="0"></button>
+      </nav>
+    </div>
+</div>
+					</div>
+	
+  
+  </div>
+
+  <div class="block">
+
+  
+    
+
+      
+
+
+<div id="l3highlights-react-app" class="amchart-react-wrapper" data-embedded-info="eyJpc19lbWJlZGRlZCI6ZmFsc2UsInBhZ2VfaWQiOiI5NjQ5MjMifQ==" data-sdwbaseurl="https://data-api.ecb.europa.eu"
+ data-props=W3sidGl0bGUiOiJLZXkgRUNCIGludGVyZXN0IHJhdGVzIiwiaW5kaWNhdG9yX3R5cGUiOiJUcmVuZCIsImluZGljYXRvcl92aXNpYmlsaXR5IjoiWUVTIiwiaW5kaWNhdG9ycyI6W3sidGl0bGUiOiJLZXkgRUNCIGludGVyZXN0IHJhdGVzIiwiZ3JvdXAiOm51bGwsImluZGljYXRvcl9pZCI6IjEzMjc4IiwiZGVzY3JpcHRpb24iOiI8cD5GdXJ0aGVyIGluZm9ybWF0aW9uIG9uIEtleSBFQ0IgSW50ZXJlc3QgUmF0ZXMgaW5kaWNhdG9ycyBjYW4gYmUgZm91bmQgaW4mbmJzcDs8YSBocmVmPVwiaHR0cHM6XC9cL2RhdGEuZWNiLmV1cm9wYS5ldVwvcHVibGljYXRpb25zXC9lY2JldXJvc3lzdGVtLXBvbGljeS1hbmQtZXhjaGFuZ2UtcmF0ZXNcLzMwMzA2MDlcIj5odHRwczpcL1wvZGF0YS5lY2IuZXVyb3BhLmV1XC9wdWJsaWNhdGlvbnNcL2VjYmV1cm9zeXN0ZW0tcG9saWN5LWFuZC1leGNoYW5nZS1yYXRlc1wvMzAzMDYwOTxcL2E+PFwvcD5cclxuIiwiZGlzcGxheV9vYnNfdmFsdWUiOiJzaG93X29ic192YWx1ZSIsImluZGljYXRvcl90eXBlIjoiVHJlbmQiLCJpbmRpY2F0b3JfZ3JhcGhfdW5pdCI6IlBlcmNlbnRhZ2UiLCJpbmRpY2F0b3JfZ3JhcGhfbGFiZWwiOiJwZXJjZW50YWdlIiwiaW5kaWNhdG9yX3Zpc2liaWxpdHlfZmxhZyI6IllFUyIsImluZGljYXRvcl9udW1iZXJfb2ZfZGVjaW1hbHMiOiIyIiwiaW5kaWNhdG9yX2NhbGN1bGF0aW9uIjpudWxsLCJpbmRpY2F0b3JfbWFnbml0dWRlX2xhYmVsIjpudWxsLCJ1c2VfbWFpbl9yZWZfYXJlYSI6IjAiLCJ0aW1lc2VyaWVzIjpbeyJub2RlX2lkIjoiMjc4MDk3OCIsImlzX21haW4iOjEsImNvdW50cnlfY29kZSI6IlUyIiwiY291bnRyeV9uYW1lIjoiRXVybyBhcmVhIChjaGFuZ2luZyBjb21wb3NpdGlvbikiLCJzZXJpZXNLZXkiOiJGTS5ELlUyLkVVUi40Ri5LUi5NUlJfUlQuTEVWIiwiZGF0YXNldElkIjoiNjciLCJkYXRhc2V0Q29kZSI6IkZNIiwidGl0bGUiOiJNYWluIHJlZmluYW5jaW5nIG9wZXJhdGlvbnMgLSBNaW5pbXVtIGJpZCByYXRlXC9maXhlZCByYXRlIChkYXRlIG9mIGNoYW5nZXMpIC0gTGV2ZWwiLCJ0aW1lc2VyaWVzX3VybCI6Imh0dHBzOlwvXC9kYXRhLmVjYi5ldXJvcGEuZXVcL2RhdGFcL2RhdGFzZXRzXC9GTVwvRk0uRC5VMi5FVVIuNEYuS1IuTVJSX1JULkxFViIsIm1ldGFkYXRhIjoie1wibGFzdFVwZGF0ZVwiOlwiMzEgTWF5IDIwMjUgMDE6MzIgQ0VTVFwiLFwidW5pdFwiOlwiUGVyY2VudCBwZXIgYW5udW0gXCIsXCJmcmVxdWVuY3lcIjpcIkRhaWx5IChEKVwiLFwicmVmZXJlbmNlQXJlYVwiOlwiRXVybyBhcmVhIChjaGFuZ2luZyBjb21wb3NpdGlvbikgKFUyKVwiLFwiY29sbGVjdGlvbkluZGljYXRvclwiOlwiRW5kIG9mIHBlcmlvZCAoRSlcIixcImRlY2ltYWxzXCI6XCJGb3VyICg0KVwiLFwic291cmNlXCI6XCJGSU5BTkNJQUwgUFJPVklERVJTXCIsXCJhZGp1c3RtZW50XCI6bnVsbCxcInZhbGlkRnJvbVwiOlwiMDIgU2VwIDIwMjIgMTc6MzY6MzYgQ0VTVFwiLFwidmFsaWRUb1wiOlwiMDEgSmFuIDIxNTAgMDA6MDA6MDAgQ0VUXCJ9IiwiZGltZW5zaW9ucyI6W3siZGltZW5zaW9uX2lkIjoiNjUwMyIsInZhbHVlX2NvZGUiOiJEIiwiZGltZW5zaW9uX25hbWUiOiJGcmVxdWVuY3kiLCJ2YWx1ZV9uYW1lIjoiRGFpbHkiLCJzaG9ydF92YWx1ZV9uYW1lIjoiRGFpbHkifSx7ImRpbWVuc2lvbl9pZCI6IjY0OTciLCJ2YWx1ZV9jb2RlIjoiVTIiLCJkaW1lbnNpb25fbmFtZSI6IlJlZmVyZW5jZSBhcmVhIiwidmFsdWVfbmFtZSI6IkV1cm8gYXJlYSAoY2hhbmdpbmcgY29tcG9zaXRpb24pIiwic2hvcnRfdmFsdWVfbmFtZSI6IkV1cm8gYXJlYSAoY2hhbmdpbmcgY29tcG9zaXRpb24pIn0seyJkaW1lbnNpb25faWQiOiI2NDk4IiwidmFsdWVfY29kZSI6IkVVUiIsImRpbWVuc2lvbl9uYW1lIjoiQ3VycmVuY3kiLCJ2YWx1ZV9uYW1lIjoiRXVybyIsInNob3J0X3ZhbHVlX25hbWUiOiJFdXJvIn0seyJkaW1lbnNpb25faWQiOiI2NDk5IiwidmFsdWVfY29kZSI6IjRGIiwiZGltZW5zaW9uX25hbWUiOiJGaW5hbmNpYWwgbWFya2V0IHByb3ZpZGVyIiwidmFsdWVfbmFtZSI6IkVDQiIsInNob3J0X3ZhbHVlX25hbWUiOiJFQ0IifSx7ImRpbWVuc2lvbl9pZCI6IjY1MDAiLCJ2YWx1ZV9jb2RlIjoiS1IiLCJkaW1lbnNpb25fbmFtZSI6IkZpbmFuY2lhbCBtYXJrZXQgaW5zdHJ1bWVudCIsInZhbHVlX25hbWUiOiJLZXkgaW50ZXJlc3QgcmF0ZSIsInNob3J0X3ZhbHVlX25hbWUiOiJLZXkgaW50ZXJlc3QgcmF0ZSJ9LHsiZGltZW5zaW9uX2lkIjoiNjUwMSIsInZhbHVlX2NvZGUiOiJNUlJfUlQiLCJkaW1lbnNpb25fbmFtZSI6IkZpbmFuY2lhbCBtYXJrZXQgcHJvdmlkZXIgaWRlbnRpZmllciIsInZhbHVlX25hbWUiOiJNYWluIHJlZmluYW5jaW5nIG9wZXJhdGlvbnMgLSBNaW5pbXVtIGJpZCByYXRlXC9maXhlZCByYXRlIChkYXRlIG9mIGNoYW5nZXMpIiwic2hvcnRfdmFsdWVfbmFtZSI6Ik1haW4gcmVmaW5hbmNpbmcgb3BlcmF0aW9ucyAtIE1pbmltdW0gYmlkIHJhdGVcL2ZpeGVkIHJhdGUgKGRhdGUgb2YgY2hhbmdlcykifSx7ImRpbWVuc2lvbl9pZCI6IjY1MDIiLCJ2YWx1ZV9jb2RlIjoiTEVWIiwiZGltZW5zaW9uX25hbWUiOiJGaW5hbmNpYWwgbWFya2V0IGRhdGEgdHlwZSIsInZhbHVlX25hbWUiOiJMZXZlbCIsInNob3J0X3ZhbHVlX25hbWUiOiJMZXZlbCJ9XSwic2Vjb25kYXJ5X2F4aXNfbW92ZSI6Ik5PIiwidHJhbnNmb3JtX3VybCI6Imh0dHBzOlwvXC9kYXRhLmVjYi5ldXJvcGEuZXVcL2RhdGEtZGV0YWlsLXRyYW5zZm9ybVwvRk0uRC5VMi5FVVIuNEYuS1IuTVJSX1JULkxFVlwvMTQzIiwiZGF0YXRhYmxlX3VybCI6Imh0dHBzOlwvXC9kYXRhLmVjYi5ldXJvcGEuZXVcL2RhdGEtZGV0YWlsLWFwaVwvRk0uRC5VMi5FVVIuNEYuS1IuTVJSX1JULkxFViIsImNoYXJ0X3Byb3BlcnRpZXMiOltdLCJ0aW1lc2VyaWVzX2RlZmF1bHRfbGFiZWwiOiJNYWluIHJlZmluYW5jaW5nIG9wZXJhdGlvbnMiLCJ0aW1lc2VyaWVzX2dyb3VwX2xhYmVsIjpudWxsLCJ0cmVuZF9pbml0aWFsX3ZpZXciOjEsIiNjYWNoZSI6eyJ0YWdzIjpbImRhdGFzZXRfZGltZW5zaW9uczpGTSIsIm5vZGU6Mjc4MDk3OCIsImNvbmZpZzplZHBfdG9waWMucmVmZXJlbmNlX2FyZWFfY3VycmVuY3lfbWFwcGluZ19zZXR0aW5ncyJdfX0seyJub2RlX2lkIjoiMzQ2NTc4IiwiaXNfbWFpbiI6MCwiY291bnRyeV9jb2RlIjoiVTIiLCJjb3VudHJ5X25hbWUiOiJFdXJvIGFyZWEgKGNoYW5naW5nIGNvbXBvc2l0aW9uKSIsInNlcmllc0tleSI6IkZNLkQuVTIuRVVSLjRGLktSLk1MRlIuTEVWIiwiZGF0YXNldElkIjoiNjciLCJkYXRhc2V0Q29kZSI6IkZNIiwidGl0bGUiOiJNYXJnaW5hbCBsZW5kaW5nIGZhY2lsaXR5IC0gZGF0ZSBvZiBjaGFuZ2VzIChyYXcgZGF0YSkgLSBMZXZlbCIsInRpbWVzZXJpZXNfdXJsIjoiaHR0cHM6XC9cL2RhdGEuZWNiLmV1cm9wYS5ldVwvZGF0YVwvZGF0YXNldHNcL0ZNXC9GTS5ELlUyLkVVUi40Ri5LUi5NTEZSLkxFViIsIm1ldGFkYXRhIjoie1wibGFzdFVwZGF0ZVwiOlwiMzEgTWF5IDIwMjUgMDE6MzIgQ0VTVFwiLFwidW5pdFwiOlwiUGVyY2VudCBwZXIgYW5udW0gXCIsXCJmcmVxdWVuY3lcIjpcIkRhaWx5IChEKVwiLFwicmVmZXJlbmNlQXJlYVwiOlwiRXVybyBhcmVhIChjaGFuZ2luZyBjb21wb3NpdGlvbikgKFUyKVwiLFwiY29sbGVjdGlvbkluZGljYXRvclwiOlwiRW5kIG9mIHBlcmlvZCAoRSlcIixcImRlY2ltYWxzXCI6XCJGb3VyICg0KVwiLFwic291cmNlXCI6XCJGSU5BTkNJQUwgUFJPVklERVJTXCIsXCJhZGp1c3RtZW50XCI6bnVsbCxcInZhbGlkRnJvbVwiOlwiMDkgSnVsIDIwMTUgMTY6MzY6MjQgQ0VTVFwiLFwidmFsaWRUb1wiOlwiMDEgSmFuIDIxNTAgMDA6MDA6MDAgQ0VUXCJ9IiwiZGltZW5zaW9ucyI6W3siZGltZW5zaW9uX2lkIjoiNjUwMyIsInZhbHVlX2NvZGUiOiJEIiwiZGltZW5zaW9uX25hbWUiOiJGcmVxdWVuY3kiLCJ2YWx1ZV9uYW1lIjoiRGFpbHkiLCJzaG9ydF92YWx1ZV9uYW1lIjoiRGFpbHkifSx7ImRpbWVuc2lvbl9pZCI6IjY0OTciLCJ2YWx1ZV9jb2RlIjoiVTIiLCJkaW1lbnNpb25fbmFtZSI6IlJlZmVyZW5jZSBhcmVhIiwidmFsdWVfbmFtZSI6IkV1cm8gYXJlYSAoY2hhbmdpbmcgY29tcG9zaXRpb24pIiwic2hvcnRfdmFsdWVfbmFtZSI6IkV1cm8gYXJlYSAoY2hhbmdpbmcgY29tcG9zaXRpb24pIn0seyJkaW1lbnNpb25faWQiOiI2NDk4IiwidmFsdWVfY29kZSI6IkVVUiIsImRpbWVuc2lvbl9uYW1lIjoiQ3VycmVuY3kiLCJ2YWx1ZV9uYW1lIjoiRXVybyIsInNob3J0X3ZhbHVlX25hbWUiOiJFdXJvIn0seyJkaW1lbnNpb25faWQiOiI2NDk5IiwidmFsdWVfY29kZSI6IjRGIiwiZGltZW5zaW9uX25hbWUiOiJGaW5hbmNpYWwgbWFya2V0IHByb3ZpZGVyIiwidmFsdWVfbmFtZSI6IkVDQiIsInNob3J0X3ZhbHVlX25hbWUiOiJFQ0IifSx7ImRpbWVuc2lvbl9pZCI6IjY1MDAiLCJ2YWx1ZV9jb2RlIjoiS1IiLCJkaW1lbnNpb25fbmFtZSI6IkZpbmFuY2lhbCBtYXJrZXQgaW5zdHJ1bWVudCIsInZhbHVlX25hbWUiOiJLZXkgaW50ZXJlc3QgcmF0ZSIsInNob3J0X3ZhbHVlX25hbWUiOiJLZXkgaW50ZXJlc3QgcmF0ZSJ9LHsiZGltZW5zaW9uX2lkIjoiNjUwMSIsInZhbHVlX2NvZGUiOiJNTEZSIiwiZGltZW5zaW9uX25hbWUiOiJGaW5hbmNpYWwgbWFya2V0IHByb3ZpZGVyIGlkZW50aWZpZXIiLCJ2YWx1ZV9uYW1lIjoiTWFyZ2luYWwgbGVuZGluZyBmYWNpbGl0eSAtIGRhdGUgb2YgY2hhbmdlcyAocmF3IGRhdGEpIiwic2hvcnRfdmFsdWVfbmFtZSI6Ik1hcmdpbmFsIGxlbmRpbmcgZmFjaWxpdHkgLSBkYXRlIG9mIGNoYW5nZXMgKHJhdyBkYXRhKSJ9LHsiZGltZW5zaW9uX2lkIjoiNjUwMiIsInZhbHVlX2NvZGUiOiJMRVYiLCJkaW1lbnNpb25fbmFtZSI6IkZpbmFuY2lhbCBtYXJrZXQgZGF0YSB0eXBlIiwidmFsdWVfbmFtZSI6IkxldmVsIiwic2hvcnRfdmFsdWVfbmFtZSI6IkxldmVsIn1dLCJzZWNvbmRhcnlfYXhpc19tb3ZlIjoiTk8iLCJ0cmFuc2Zvcm1fdXJsIjoiaHR0cHM6XC9cL2RhdGEuZWNiLmV1cm9wYS5ldVwvZGF0YS1kZXRhaWwtdHJhbnNmb3JtXC9GTS5ELlUyLkVVUi40Ri5LUi5NTEZSLkxFVlwvMTQzIiwiZGF0YXRhYmxlX3VybCI6Imh0dHBzOlwvXC9kYXRhLmVjYi5ldXJvcGEuZXVcL2RhdGEtZGV0YWlsLWFwaVwvRk0uRC5VMi5FVVIuNEYuS1IuTUxGUi5MRVYiLCJjaGFydF9wcm9wZXJ0aWVzIjpbXSwidGltZXNlcmllc19kZWZhdWx0X2xhYmVsIjoiTWFyZ2luYWwgbGVuZGluZyBmYWNpbGl0eSIsInRpbWVzZXJpZXNfZ3JvdXBfbGFiZWwiOm51bGwsInRyZW5kX2luaXRpYWxfdmlldyI6MSwiI2NhY2hlIjp7InRhZ3MiOlsiZGF0YXNldF9kaW1lbnNpb25zOkZNIiwibm9kZTozNDY1NzgiLCJjb25maWc6ZWRwX3RvcGljLnJlZmVyZW5jZV9hcmVhX2N1cnJlbmN5X21hcHBpbmdfc2V0dGluZ3MiXX19LHsibm9kZV9pZCI6IjM0NjU3NiIsImlzX21haW4iOjAsImNvdW50cnlfY29kZSI6IlUyIiwiY291bnRyeV9uYW1lIjoiRXVybyBhcmVhIChjaGFuZ2luZyBjb21wb3NpdGlvbikiLCJzZXJpZXNLZXkiOiJGTS5ELlUyLkVVUi40Ri5LUi5ERlIuTEVWIiwiZGF0YXNldElkIjoiNjciLCJkYXRhc2V0Q29kZSI6IkZNIiwidGl0bGUiOiJEZXBvc2l0IGZhY2lsaXR5IC0gZGF0ZSBvZiBjaGFuZ2VzIChyYXcgZGF0YSkgLSBMZXZlbCIsInRpbWVzZXJpZXNfdXJsIjoiaHR0cHM6XC9cL2RhdGEuZWNiLmV1cm9wYS5ldVwvZGF0YVwvZGF0YXNldHNcL0ZNXC9GTS5ELlUyLkVVUi40Ri5LUi5ERlIuTEVWIiwibWV0YWRhdGEiOiJ7XCJsYXN0VXBkYXRlXCI6XCIzMSBNYXkgMjAyNSAwMTozMiBDRVNUXCIsXCJ1bml0XCI6XCJQZXJjZW50IHBlciBhbm51bSBcIixcImZyZXF1ZW5jeVwiOlwiRGFpbHkgKEQpXCIsXCJyZWZlcmVuY2VBcmVhXCI6XCJFdXJvIGFyZWEgKGNoYW5naW5nIGNvbXBvc2l0aW9uKSAoVTIpXCIsXCJjb2xsZWN0aW9uSW5kaWNhdG9yXCI6XCJFbmQgb2YgcGVyaW9kIChFKVwiLFwiZGVjaW1hbHNcIjpcIkZvdXIgKDQpXCIsXCJzb3VyY2VcIjpcIkZJTkFOQ0lBTCBQUk9WSURFUlNcIixcImFkanVzdG1lbnRcIjpudWxsLFwidmFsaWRGcm9tXCI6XCIwOSBKdWwgMjAxNSAxNjozNjoyNCBDRVNUXCIsXCJ2YWxpZFRvXCI6XCIwMSBKYW4gMjE1MCAwMDowMDowMCBDRVRcIn0iLCJkaW1lbnNpb25zIjpbeyJkaW1lbnNpb25faWQiOiI2NTAzIiwidmFsdWVfY29kZSI6IkQiLCJkaW1lbnNpb25fbmFtZSI6IkZyZXF1ZW5jeSIsInZhbHVlX25hbWUiOiJEYWlseSIsInNob3J0X3ZhbHVlX25hbWUiOiJEYWlseSJ9LHsiZGltZW5zaW9uX2lkIjoiNjQ5NyIsInZhbHVlX2NvZGUiOiJVMiIsImRpbWVuc2lvbl9uYW1lIjoiUmVmZXJlbmNlIGFyZWEiLCJ2YWx1ZV9uYW1lIjoiRXVybyBhcmVhIChjaGFuZ2luZyBjb21wb3NpdGlvbikiLCJzaG9ydF92YWx1ZV9uYW1lIjoiRXVybyBhcmVhIChjaGFuZ2luZyBjb21wb3NpdGlvbikifSx7ImRpbWVuc2lvbl9pZCI6IjY0OTgiLCJ2YWx1ZV9jb2RlIjoiRVVSIiwiZGltZW5zaW9uX25hbWUiOiJDdXJyZW5jeSIsInZhbHVlX25hbWUiOiJFdXJvIiwic2hvcnRfdmFsdWVfbmFtZSI6IkV1cm8ifSx7ImRpbWVuc2lvbl9pZCI6IjY0OTkiLCJ2YWx1ZV9jb2RlIjoiNEYiLCJkaW1lbnNpb25fbmFtZSI6IkZpbmFuY2lhbCBtYXJrZXQgcHJvdmlkZXIiLCJ2YWx1ZV9uYW1lIjoiRUNCIiwic2hvcnRfdmFsdWVfbmFtZSI6IkVDQiJ9LHsiZGltZW5zaW9uX2lkIjoiNjUwMCIsInZhbHVlX2NvZGUiOiJLUiIsImRpbWVuc2lvbl9uYW1lIjoiRmluYW5jaWFsIG1hcmtldCBpbnN0cnVtZW50IiwidmFsdWVfbmFtZSI6IktleSBpbnRlcmVzdCByYXRlIiwic2hvcnRfdmFsdWVfbmFtZSI6IktleSBpbnRlcmVzdCByYXRlIn0seyJkaW1lbnNpb25faWQiOiI2NTAxIiwidmFsdWVfY29kZSI6IkRGUiIsImRpbWVuc2lvbl9uYW1lIjoiRmluYW5jaWFsIG1hcmtldCBwcm92aWRlciBpZGVudGlmaWVyIiwidmFsdWVfbmFtZSI6IkRlcG9zaXQgZmFjaWxpdHkgLSBkYXRlIG9mIGNoYW5nZXMgKHJhdyBkYXRhKSIsInNob3J0X3ZhbHVlX25hbWUiOiJEZXBvc2l0IGZhY2lsaXR5IC0gZGF0ZSBvZiBjaGFuZ2VzIChyYXcgZGF0YSkifSx7ImRpbWVuc2lvbl9pZCI6IjY1MDIiLCJ2YWx1ZV9jb2RlIjoiTEVWIiwiZGltZW5zaW9uX25hbWUiOiJGaW5hbmNpYWwgbWFya2V0IGRhdGEgdHlwZSIsInZhbHVlX25hbWUiOiJMZXZlbCIsInNob3J0X3ZhbHVlX25hbWUiOiJMZXZlbCJ9XSwic2Vjb25kYXJ5X2F4aXNfbW92ZSI6Ik5PIiwidHJhbnNmb3JtX3VybCI6Imh0dHBzOlwvXC9kYXRhLmVjYi5ldXJvcGEuZXVcL2RhdGEtZGV0YWlsLXRyYW5zZm9ybVwvRk0uRC5VMi5FVVIuNEYuS1IuREZSLkxFVlwvMTQzIiwiZGF0YXRhYmxlX3VybCI6Imh0dHBzOlwvXC9kYXRhLmVjYi5ldXJvcGEuZXVcL2RhdGEtZGV0YWlsLWFwaVwvRk0uRC5VMi5FVVIuNEYuS1IuREZSLkxFViIsImNoYXJ0X3Byb3BlcnRpZXMiOltdLCJ0aW1lc2VyaWVzX2RlZmF1bHRfbGFiZWwiOiJEZXBvc2l0IGZhY2lsaXR5IiwidGltZXNlcmllc19ncm91cF9sYWJlbCI6bnVsbCwidHJlbmRfaW5pdGlhbF92aWV3IjoxLCIjY2FjaGUiOnsidGFncyI6WyJkYXRhc2V0X2RpbWVuc2lvbnM6Rk0iLCJub2RlOjM0NjU3NiIsImNvbmZpZzplZHBfdG9waWMucmVmZXJlbmNlX2FyZWFfY3VycmVuY3lfbWFwcGluZ19zZXR0aW5ncyJdfX1dfV0sImdyb3VwX2lkIjoiMTMyNzkifV0= page-title="Key ECB interest rates" data-download-api-url="https://data.ecb.europa.eu/download-api" decimal-display="" y-axis-label-default=""
+ favtooltip-data="Add to favourites" trend-timeseries-data="Time series displayed in the trendline chart." ranking-timeseries-data="Time series displayed in the ranking bar chart."
+data-download-xls-long="Excel long format presents time series appended in one column one below the other." data-download-wide-long="Excel wide format presents each time series in a separate column."  data-visible-timeseries="Time series displayed in the chart."></div>
+
+
+
+  
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="block">
+
+  
+    
+
+      
+<div class="edp-topic-data-block">
+  <div class="edp-data-section-wrapper container">
+    <div class="edp-data-section-title">Data</div>
+    <div class="edp-data-section-description"><p>Download specific data related to the key ECB interest rates.</p>
+</div>
+    <div class="edp-data-section-links">
+
+	<ul class="edp-data-section-links-list">
+					<li><a href="/data/data-categories/ecbeurosystem-policy-and-exchange-rates/official-interest-rates">Official interest rates</a></li>
+			</ul>
+</div>
+  </div>
+</div>
+
+  
+  </div>
+
+    </div>
+  </div>
+
+
+<div class="methlogy-img">
+        <div class="layout layout--edp_methodology_block_layout">
+              <div class="container">
+          <div class="col-md-12 box-scale">
+            <div  class="layout__region layout__region--content col-md-12">
+              <div class="box-show">
+                <div class="methodology-title">Methodology</div>
+                <div class="methodology-content">
+                  <div class="button-box">
+                    
+  <div class="block">
+
+  
+    
+
+      
+
+            <div class="topic__field-methodology-description"><p>The main refinancing operations (MRO) rate is one of the three key interest rates the ECB sets regularly as part of its work to keep prices stable in the euro area. The MRO rate is the interest rate banks pay when they borrow money from the ECB for one week.</p></div>
+      
+  
+  </div>
+
+  <div class="block">
+
+  
+    
+
+      
+
+            <div class="topic__field-methodology-view-more-link"><a href="https://www.ecb.europa.eu/ecb/educational/explainers/tell-me/html/mro.en.html">Find out more</a></div>
+      
+  
+  </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          </div>
+  </div>
+  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+  <div class="views-element-container block">
+
+  
+    
+
+      <div><div class="js-view-dom-id-f0270d5f31225c65d02477be295adc3d3607703d40f325f43bd3df06d4bfe6bd">
+  
+  
+  
+
+  
+  
+  
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  
+  </div>
+
+    </div>
+  </div>
+<div class="views-element-container"><div class="js-view-dom-id-316f3ab55cd19853f2374e2ce2270530e520fcff8d100c66e13c3d748042dd04">
+  
+  
+  
+
+  
+  
+  
+
+  
+<div class="dataset-block">
+  <div class="container">
+    <div class="topic-dataset-title">More about data</div>
+    <table id="datatable" class="display cols-3">
+                    <thead>
+        <tr>
+                                                          <th id="view-field-dataset-description-table-column" aria-sort="ascending" class="views-field views-field-field-dataset-description is-active" scope="col">Dataset</th>
+                                                          <th id="view-nothing-1-table-column" class="views-field views-field-nothing-1" scope="col">Bulk download</th>
+                                                          <th id="view-field-release-calendar-table-column" class="views-field views-field-field-release-calendar" scope="col">Calendar</th>
+                  </tr>
+        </thead>
+            <tbody>
+            <tr>
+                                                                                      <td headers="view-field-dataset-description-table-column" class="views-field views-field-field-dataset-description is-active">
+          <a href="/data/datasets/FM">FM - Financial market data (Other data)</a>                    </td>
+                                                                                                                <td headers="view-nothing-1-table-column" class="views-field views-field-nothing views-field-nothing-1">
+          <a href="https://data-api.ecb.europa.eu/service/data/FM" target="_blank">SDMX2.1</a><a href="https://data-api.ecb.europa.eu/service/data/FM?format=csvdata" target="_blank">CSV</a>                    </td>
+                                                                                      <td headers="view-field-release-calendar-table-column" class="views-field views-field-field-release-calendar">
+                              </td>
+                </tr>
+            </tbody>
+    </table>
+  </div>
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+</article>
+
+
+			</div>
+					
+		
+		
+		<div class="layout-content-bottom">
+			  
+<div class="settings-tray-editable block block--loginmodal" data-drupal-settingstray="editable">
+  
+  
+
+    
+<div id="edpLoginModal" class="modal edp-login-modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <ul class="tabs">
+          <li class="active" rel="login">Login</li>
+          <li rel="registration">Register</li>
+        </ul>
+        <div class="tab_container">
+          <h3 class="d_active tab_heading" rel="login">Login</h3>
+          <div id="login" class="tab_content">
+            <div id="edp-user-login-form-wrapper"><form class="user-login-form" data-drupal-selector="user-login-form" action="/main-figures/ecb-interest-rates-and-exchange-rates/key-ecb-interest-rates?destination=/main-figures/ecb-interest-rates-and-exchange-rates/key-ecb-interest-rates" method="post" id="user-login-form" accept-charset="UTF-8">
+    
+<input autocomplete="off" data-drupal-selector="form-xyu8xeidlormqqkl91rjosp14jlp7gehpu0gw8ubvnw" type="hidden" name="form_build_id" value="form-XyU8XeIDLORMQQkl91RJOsp14Jlp7gEhPU0GW8ubvnw" class="form-control" />
+  
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" class="form-control" />
+
+
+<div class="js-form-item form-item js-form-type-email form-item-name js-form-item-name form-group" data-id="attr-input-wrapper">
+      <label for="edit-name" class="js-form-required form-required">Email</label>
+          
+<input autocorrect="none" autocapitalize="none" spellcheck="false" autocomplete="username" data-drupal-selector="edit-name" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$" data-msg-email="Please enter a valid email address." data-msg-maxlength="Email field has a maximum length of 254." data-msg-required="Email field is required." data-msg-pattern="Please enter a valid email address." type="email" id="edit-name" name="name" value="" size="15" maxlength="254" class="form-email required form-control" required="required" aria-required="true" />
+
+        </div>
+
+
+<div class="js-form-item form-item js-form-type-password form-item-pass js-form-item-pass form-group" data-id="attr-input-wrapper">
+      <label for="edit-pass" class="js-form-required form-required">Password</label>
+          
+<input autocomplete="current-password" data-drupal-selector="edit-pass" data-msg-maxlength="Password field has a maximum length of 128." data-msg-required="Password field is required." type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="required form-control" required="required" aria-required="true" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-checkbox form-item-persistent-login js-form-item-persistent-login form-check">
+  
+<input data-drupal-selector="edit-persistent-login" type="checkbox" id="edit-persistent-login" name="persistent_login" value="1" class="form-checkbox form-check-input" />
+
+
+  <label class="form-check-label option" for="edit-persistent-login">Remember me</label>
+
+  
+  </div>
+<a href="/user/password" title="Send password reset instructions via email." class="request-password-link use-ajax" data-dialog-type="ajax" data-ajax-wrapper="edp-user-login-form-wrapper" data-ajax-focus="#edp-user-login-form-wrapper" data-progress-parent-selector="#edpLoginModal .modal-content" data-drupal-selector="edit-request-password" id="edit-request-password">Forgot your password?</a><div class="login-container js-form-wrapper form-wrapper" data-drupal-selector="edit-submit" id="edit-submit--2">  <input class="login-button button js-form-submit form-submit btn btn-primary" data-progress-parent-selector="#edpLoginModal .modal-content" data-drupal-selector="edit-button" data-disable-refocus="true" type="submit" id="edit-button" name="op" value="Login" />
+
+
+</div>
+
+</form>
+</div>
+          </div>
+          <h3 class="tab_heading" rel="registration">Register</h3>
+          <div id="registration" class="tab_content">
+            <div id="edp-user-register-form-wrapper"><form class="user-register-form user-form" data-user-info-from-browser data-drupal-selector="user-register-form" action="/main-figures/ecb-interest-rates-and-exchange-rates/key-ecb-interest-rates" method="post" id="user-register-form" accept-charset="UTF-8">
+  <div class="intro-text"><p>Register to manage and store your data, data comparisons as favourites, create personalised dashboards or subscribe to email notifications on data updates.</p></div><div data-drupal-selector="edit-account" id="edit-account" class="js-form-wrapper form-wrapper">
+
+<div class="js-form-item form-item js-form-type-email form-item-mail js-form-item-mail form-group" data-id="attr-input-wrapper">
+      <label for="edit-mail" class="js-form-required form-required">Email</label>
+          
+<input data-drupal-selector="edit-mail" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$" data-msg-email="Please enter a valid email address." data-msg-maxlength="Email field has a maximum length of 254." data-msg-required="Email field is required." data-msg-pattern="Please enter a valid email address." type="email" id="edit-mail" name="mail" value="" size="60" maxlength="254" class="form-email required form-control" required="required" aria-required="true" />
+
+        </div>
+
+
+<div id="edit-pass--2" class="js-form-item form-item js-form-type-password-confirm form-item-pass js-form-item-pass form-no-label form-group" data-id="attr-input-wrapper">
+        
+
+<div class="js-form-item form-item js-form-type-password form-item-pass-pass1 js-form-item-pass-pass1 form-group" data-id="attr-input-wrapper">
+      <label for="edit-pass-pass1" class="js-form-required form-required">Password <span class="passwordtooltip" data-toggle="tooltip" data-html="true" title="Password must be longer than 10 characters, must be a mix of upper and lower case letters, digits and special characters. The allowed special characters are: !#$%&amp;()*+,-/:;&lt;=&gt;?_.)">?</span></label>
+          
+<input class="password-field js-password-field required form-control" autocomplete="new-password" data-drupal-selector="edit-pass-pass1" pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[!#$%&amp;()*+,-/:;&lt;=&gt;?_])[A-Za-z\d!#$%&amp;()*+,-/:;&lt;=&gt;?_]{10,}$" data-msg-maxlength="Password field has a maximum length of 128." data-msg-required="Password field is required." data-msg-pattern="Password format does not comply with the policy settings." type="password" id="edit-pass-pass1" name="pass[pass1]" size="25" maxlength="128" required="required" aria-required="true" />
+
+        </div>
+
+
+<div class="js-form-item form-item js-form-type-password form-item-pass-pass2 js-form-item-pass-pass2 form-group" data-id="attr-input-wrapper">
+      <label for="edit-pass-pass2" class="js-form-required form-required">Confirm password</label>
+          
+<input class="password-confirm js-password-confirm required form-control" autocomplete="new-password" data-drupal-selector="edit-pass-pass2" data-msg-maxlength="Confirm password field has a maximum length of 128." data-msg-required="Confirm password field is required." data-rule-equalto="[name=&quot;pass[pass1]&quot;]" data-msg-equalto="(!) Passwords do not match" type="password" id="edit-pass-pass2" name="pass[pass2]" size="25" maxlength="128" required="required" aria-required="true" />
+
+        </div>
+
+        </div>
+</div>
+  
+<input autocomplete="off" data-drupal-selector="form-fq1ukx7bw3ssk3sgtrgcgori-jimbii430b3dpky7oe" type="hidden" name="form_build_id" value="form-FQ1UKX7bW3ssk3sGtRgcGORi_jIMBii430B3DpKy7OE" class="form-control" />
+  
+<input data-drupal-selector="edit-user-register-form" type="hidden" name="form_id" value="user_register_form" class="form-control" />
+<div class="field--type-entity-reference field--name-field-usage-context field--widget-options-select js-form-wrapper form-wrapper" data-drupal-selector="edit-field-usage-context-wrapper" id="edit-field-usage-context-wrapper">
+
+<div class="js-form-item form-item js-form-type-select form-item-field-usage-context js-form-item-field-usage-context form-group" data-id="attr-input-wrapper">
+      <label for="edit-field-usage-context">In what context do you use ECB Data Portal?</label>
+        <select data-drupal-selector="edit-field-usage-context" id="edit-field-usage-context" name="field_usage_context" class="form-select custom-select"><option value="_none">Please choose one</option><option value="1">Business professional</option><option value="2">Economic enthusiast</option><option value="3">Journalist</option><option value="4">Researcher/Academic</option><option value="5">Student</option><option value="6">Teacher</option></select>
+        </div>
+</div>
+<div class="field--type-boolean field--name-field-consent field--widget-boolean-checkbox js-form-wrapper form-wrapper" data-drupal-selector="edit-field-consent-wrapper" id="edit-field-consent-wrapper"><div class="js-form-item form-item js-form-type-checkbox form-item-field-consent-value js-form-item-field-consent-value form-check">
+  
+<input data-drupal-selector="edit-field-consent-value" aria-describedby="edit-field-consent-value--description" data-msg-required="The acknowledgement checkbox must be checked for successful registration." type="checkbox" id="edit-field-consent-value" name="field_consent[value]" value="1" class="form-checkbox required form-check-input" required="required" aria-required="true" />
+
+
+  <label class="form-check-label option js-form-required form-required" for="edit-field-consent-value">I acknowledge</label>
+
+  
+      <small id="edit-field-consent-value--description" class="description form-text text-muted">
+      I agree to the use of my personal data as described in the <a href="/privacy-statement-ecb-data-portal" target="_blank">Data Privacy Statement</a>.
+    </small>
+  </div>
+</div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2">  <input data-progress-parent-selector="#edpLoginModal .modal-content" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit--3" name="op" value="Submit" class="button button--primary js-form-submit form-submit btn btn-primary" />
+
+
+</div>
+
+</form>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+  <div class="settings-tray-editable block block--minimizeddatacomparison" data-drupal-settingstray="editable">
+
+  
+    
+
+      <div class="hidden"><a href="/data-comparison/refresh-minimize" class="use-ajax" rel="noopener noreferrer nofollow" id="edp-refresh-minimize">Refresh</a></div>
+<div class="edp-data-comparison-minimize-wrapper no-items toast show-all" role="alert" aria-live="assertive" aria-atomic="true">
+  <span class="show-all-list"></span>
+  <div class="timeseries-list">
+      </div>
+  <div class="toast-body">
+          <span>Nothing in data comparison</span>
+      </div>
+</div>
+
+<div class="discard-modal-wrapper modal fade" id="discardModal" tabindex="-1" role="dialog" aria-labelledby="discardModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="discardModalLabel">Discard data comparison?</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="Drupal.discardModal()">
+          <span class="close-btn" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Are you sure you want to discard the comparison?
+              As a registered user you can save data comparisons in your favourites.</p>
+        <span><a class="btn btn-cls" href="javascript:Drupal.edpComparisonDiscard('');">Discard</a></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+  </div>
+
+
+		</div>
+		<div id='backtotop' class='icon-btn backtotop rectangle'>
+			<div class='actions-navigation-chevron-up'></div>
+		</div>
+	</main>
+			<footer role="contentinfo" id="edp-page-footer">
+			
+			<div class="edp-footer-outer">  
+  <div class="settings-tray-editable block block--edp-userfeedback" data-drupal-settingstray="editable">
+
+  
+    
+
+      <div id="feedback" class="col-12">
+
+	<div class="feedback__content-box content-box container">
+		<div class="feedback__initial initial">
+			<div class="feedback__title title">
+				<p>Are you happy with this page?</p>
+			</div>
+			<div class="feedback__button-group button-group">
+				<a class="use-ajax  feedback__button btn button -inverted-color" href="#" id="feedback-yes" tabindex="0">Yes</a>
+				<a class="use-ajax feedback__button btn button -inverted-color" href="#" id="feedback-no" tabindex="0">No</a>
+			</div>
+		</div>
+
+		<div class="feedback__second second hidden ">
+			<div class="feedback__title title">
+				<p>What made you unhappy?</p>
+			</div>
+			<div class="feedback__button-group button-group">
+																																	<a class="use-ajax feedback__button button -inverted-color" id="feedback-answer" href="#" tabindex="0" data-value="Search problems" id="feedback-answer_1">Search problems</a>
+																																																								<a class="use-ajax feedback__button button -inverted-color" id="feedback-answer" href="#" tabindex="0" data-value="Performance problems" id="feedback-answer_2">Performance problems</a>
+																																																								<a class="use-ajax feedback__button button -inverted-color" id="feedback-answer" href="#" tabindex="0" data-value="API issues" id="feedback-answer_3">API issues</a>
+																																																								<a class="use-ajax feedback__button button -inverted-color" id="feedback-answer" href="#" tabindex="0" data-value="Lack of Metadata" id="feedback-answer_4">Lack of Metadata</a>
+																																																								<a class="use-ajax feedback__button button -inverted-color" id="feedback-answer" href="#" tabindex="0" data-value="Something Else" id="feedback-answer_5">Something Else</a>
+																																																																																																																																	</div>
+		</div>
+		<div class="feedback__third third hidden">
+			<div class="feedback__title title">
+				<p>Would you like to give us any additional feedback or suggest any improvement?</p>
+			</div>
+			<div class="feedback__button-group button-group">
+				<a class="use-ajax feedback__button button -inverted-color" href="#" id="feedback-add-yes" tabindex="0">Yes</a>
+				<a class="use-ajax feedback__button button -inverted-color" href="#" id="feedback-add-no" tabindex="0">No</a>
+			</div>
+		</div>
+		<div class="feedback__final final hidden">
+			<div class="feedback__title title">
+				<p>Thank you for letting us know!</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+  
+  </div>
+
+</div>
+			<div class="edp-footer-inner">
+			
+				<div class="row footer-top">
+					<div class="col-lg-6 col-md-4 col-xs-12 footer-top-left">  
+<div class="settings-tray-editable block block--basic-text block--footersitedirectoryblock" data-drupal-settingstray="editable">
+  
+  
+
+      
+<div>
+  
+
+
+            <div class="basic-text__body wysiwyg"><p><a href="/services/site-directory">Site directory</a></p></div>
+      
+</div>
+</div>
+
+</div>
+					<div class="col-lg-6 col-md-8 col-xs-12 footer-top-right">  
+<div class="settings-tray-editable block block--basic-text block--footerfollowusblock" data-drupal-settingstray="editable">
+  
+  
+
+      
+<div>
+  
+
+
+            <div class="basic-text__body wysiwyg"><p><a href="https://www.ecb.europa.eu/services/socialmedia/html/index.en.html">FOLLOW US</a></p></div>
+      
+</div>
+</div>
+
+  <div class="settings-tray-editable block-social-media-links block block--socialmedialinks" data-drupal-settingstray="editable">
+
+  
+    
+
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://www.twitter.com/ecb"  >
+        <span class='fab fa-twitter fa-2x'></span>
+      </a>
+
+                        <br />
+        
+        <span><a class="social-media-link--twitter mediaIcons" title="Twitter" href="https://www.twitter.com/ecb" >Twitter</a></span>
+          </li>
+      <li>
+      <a class="social-media-link-icon--linkedin" href="https://www.linkedin.com/company/european-central-bank"  >
+        <span class='fab fa-linkedin fa-2x'></span>
+      </a>
+
+                        <br />
+        
+        <span><a class="social-media-link--linkedin mediaIcons" title="LinkedIn" href="https://www.linkedin.com/company/european-central-bank" >LinkedIn</a></span>
+          </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/europeancentralbank/"  >
+        <span class='fab fa-instagram fa-2x'></span>
+      </a>
+
+                        <br />
+        
+        <span><a class="social-media-link--instagram mediaIcons" title="Instagram" href="https://www.instagram.com/europeancentralbank/" >Instagram</a></span>
+          </li>
+      <li>
+      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/user/ecbeuro"  >
+        <span class='fab fa-youtube fa-2x'></span>
+      </a>
+
+                        <br />
+        
+        <span><a class="social-media-link--youtube mediaIcons" title="Youtube" href="https://www.youtube.com/user/ecbeuro" >Youtube</a></span>
+          </li>
+      <li>
+      <a class="social-media-link-icon--flickr" href="https://www.flickr.com/photos/europeancentralbank/sets/"  >
+        <span class='fab fa-flickr fa-2x'></span>
+      </a>
+
+                        <br />
+        
+        <span><a class="social-media-link--flickr mediaIcons" title="Flickr" href="https://www.flickr.com/photos/europeancentralbank/sets/" >Flickr</a></span>
+          </li>
+      <li>
+      <a class="social-media-link-icon--sound-cloud" href="https://soundcloud.com/europeancentralbank"  >
+        <span class='fab fa-sound-cloud fa-2x'></span>
+      </a>
+
+                        <br />
+        
+        <span><a class="social-media-link--sound-cloud mediaIcons" title="Sound Cloud" href="https://soundcloud.com/europeancentralbank" >Sound Cloud</a></span>
+          </li>
+      <li>
+      <a class="social-media-link-icon--rss" href="https://www.ecb.europa.eu/home/html/rss.en.html"  >
+        <span class='fa fa-rss fa-2x'></span>
+      </a>
+
+                        <br />
+        
+        <span><a class="social-media-link--rss mediaIcons" title="RSS" href="https://www.ecb.europa.eu/home/html/rss.en.html" >RSS</a></span>
+          </li>
+  </ul>
+
+  
+  </div>
+
+</div>
+				</div>
+				<div class="row footer-bottom">
+					<div class="col-lg-6 col-md-4 col-xs-12 footer-bottom-left">  
+<div class="settings-tray-editable block block--basic-text block--footercopyrightblock" data-drupal-settingstray="editable">
+  
+  
+
+      
+<div>
+  
+
+
+            <div class="basic-text__body wysiwyg"><p>Copyright 2025,&nbsp;European Central Bank</p></div>
+      
+</div>
+</div>
+
+</div>
+					<div class="col-lg-6 col-md-8 footer-bottom-right">  <div class="footer-links">
+
+
+  
+            <div class="footer-links-title">Useful links</div>
+        
+
+      
+
+
+
+
+  
+  
+
+
+  <ul class="nav footer-link">
+                                          <li class="nav-item dropdown">
+                      <a href="https://www.ecb.europa.eu/services/glossary/html/glossa.en.html" class="nav-link">Glossary</a>
+                              </li>
+                                      <li class="nav-item dropdown">
+                      <a href="https://www.ecb.europa.eu/services/links/html/index.en.html" class="nav-link">National Central Banks</a>
+                              </li>
+                                      <li class="nav-item dropdown">
+                      <a href="https://www.ecb.europa.eu/home/html/index.en.html" class="nav-link">ECB website</a>
+                              </li>
+            </ul>
+
+  
+</div>
+<div class="footer-links">
+
+
+  
+            <div class="footer-links-title">Using our site</div>
+        
+
+      
+
+
+
+
+  
+  
+
+
+  <ul class="nav footer-link">
+                                          <li class="nav-item dropdown">
+                      <a href="/help" class="nav-link">Help</a>
+                              </li>
+                                      <li class="nav-item dropdown">
+                      <a href="https://www.ecb.europa.eu/services/disclaimer/html/index.en.html" class="nav-link">Disclaimer &amp; Copyright</a>
+                              </li>
+                                      <li class="nav-item dropdown">
+                      <a href="/privacy-statement-ecb-data-portal" class="nav-link" data-drupal-link-system-path="node/2182033">Privacy statement</a>
+                              </li>
+                                      <li class="nav-item dropdown">
+                      <a href="https://www.ecb.europa.eu/services/data-protection/html/index.en.html" class="nav-link">Data Protection</a>
+                              </li>
+            </ul>
+
+  
+</div>
+<div class="footer-links">
+
+
+  
+            <div class="footer-links-title">Tools</div>
+        
+
+      
+
+
+
+
+  
+  
+
+
+  <ul class="nav footer-link">
+                                          <li class="nav-item dropdown">
+                      <a href="/help/api/overview" class="nav-link" data-drupal-link-system-path="node/2045260">Web Services API</a>
+                              </li>
+            </ul>
+
+  
+</div>
+<div class="footer-links">
+
+
+  
+            <div class="footer-links-title">Contact</div>
+        
+
+      
+
+
+
+
+  
+  
+
+
+  <ul class="nav footer-link">
+                                          <li class="nav-item dropdown">
+                      <a href="/help/contact-us" class="nav-link" data-drupal-link-system-path="node/3702198">Contacts</a>
+                              </li>
+                                      <li class="nav-item dropdown">
+                      <a href="https://www.ecb.europa.eu/services/contacts/address/html/index.en.html" class="nav-link">Address</a>
+                              </li>
+                                      <li class="nav-item dropdown">
+                      <a href="https://www.ecb.europa.eu/services/contacts/working-hours/html/index.en.html" class="nav-link">Working hours</a>
+                              </li>
+            </ul>
+
+  
+</div>
+
+</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+<div id="toastWrapper" class="toast-wrapper" aria-live="polite" aria-atomic="true">
+	<div id="toastContainer" class="toast-container"></div>
+</div>
+
+  </div>
+
+
+<script src="/sites/default/files/js/js_DJz2LmB0yOdwn6R7teMiwU9RhEMfEeOeZHYC5XYnxNM.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=edp&amp;include=eJyNU9GS2yAM_CHbvPR_GAGyrQQQBexe8vUV4OSunZtpx2Oyuyga7YKNh-dDmbZOfVXWQymeSr24Z3AXTOwfK3n_opkDFbxYhvVCv9CkyTDXUjOkHzqwA69MudDiCDxvC9zgY7KeMNZCDvUJnhxU4qhvPw_MMsq5DLTQiv9beu39uz5BrZjjErDu7CbLGZXLR5IJV85hCBRbjUhX974jreQxHov6hN-runWZ0BrtoOyGITt1TzSXAN7PVuiELql3WlpHOLvUemiHFcjrBBtqu0OuY6urc1M7l1f3csshQaYiPgNFCvRE966QzCmOI-ianCQWODFrT2YoMgXmDncE94IcsA9QELLdu3YrT0rv_4kh3ay0hY-Co38AinPAeAz20CucnKlKVE0oaDk6yI_PGrl29q5X-hiMrVwUXcR2t6lXRGdAKjzzsPSH8hpH_zWw8hC3Q_hcedv86PUlDNVO5wuXoNHeJzwkTr4T9lQ9QbSovhOn8Zm0LyhA5cBq_EzdzjC1IBSK2yTh5Ncla_g3o9pa9g"></script>
+<script src="/themes/custom/edp/react_components/data_detail_page_chart/js/dist/main.min.js?swch0o"></script>
+<script src="/sites/default/files/js/js_mxs76QbAp0HC-qwSbiy4nx6PyKC7t3aq2tYOxGZEnPM.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=edp&amp;include=eJyNU9GS2yAM_CHbvPR_GAGyrQQQBexe8vUV4OSunZtpx2Oyuyga7YKNh-dDmbZOfVXWQymeSr24Z3AXTOwfK3n_opkDFbxYhvVCv9CkyTDXUjOkHzqwA69MudDiCDxvC9zgY7KeMNZCDvUJnhxU4qhvPw_MMsq5DLTQiv9beu39uz5BrZjjErDu7CbLGZXLR5IJV85hCBRbjUhX974jreQxHov6hN-runWZ0BrtoOyGITt1TzSXAN7PVuiELql3WlpHOLvUemiHFcjrBBtqu0OuY6urc1M7l1f3csshQaYiPgNFCvRE966QzCmOI-ianCQWODFrT2YoMgXmDncE94IcsA9QELLdu3YrT0rv_4kh3ay0hY-Co38AinPAeAz20CucnKlKVE0oaDk6yI_PGrl29q5X-hiMrVwUXcR2t6lXRGdAKjzzsPSH8hpH_zWw8hC3Q_hcedv86PUlDNVO5wuXoNHeJzwkTr4T9lQ9QbSovhOn8Zm0LyhA5cBq_EzdzjC1IBSK2yTh5Ncla_g3o9pa9g"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=10.4.6" defer></script>
+<script src="/sites/default/files/js/js_ucNYDcfHyaqeWaRngt-mK3QOWTAKbEefc8Qf-nUpHOM.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=edp&amp;include=eJyNU9GS2yAM_CHbvPR_GAGyrQQQBexe8vUV4OSunZtpx2Oyuyga7YKNh-dDmbZOfVXWQymeSr24Z3AXTOwfK3n_opkDFbxYhvVCv9CkyTDXUjOkHzqwA69MudDiCDxvC9zgY7KeMNZCDvUJnhxU4qhvPw_MMsq5DLTQiv9beu39uz5BrZjjErDu7CbLGZXLR5IJV85hCBRbjUhX974jreQxHov6hN-runWZ0BrtoOyGITt1TzSXAN7PVuiELql3WlpHOLvUemiHFcjrBBtqu0OuY6urc1M7l1f3csshQaYiPgNFCvRE966QzCmOI-ianCQWODFrT2YoMgXmDncE94IcsA9QELLdu3YrT0rv_4kh3ay0hY-Co38AinPAeAz20CucnKlKVE0oaDk6yI_PGrl29q5X-hiMrVwUXcR2t6lXRGdAKjzzsPSH8hpH_zWw8hC3Q_hcedv86PUlDNVO5wuXoNHeJzwkTr4T9lQ9QbSovhOn8Zm0LyhA5cBq_EzdzjC1IBSK2yTh5Ncla_g3o9pa9g"></script>
+
+</body>
+</html>

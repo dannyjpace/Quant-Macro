@@ -1,0 +1,20 @@
+## `requirements.txt`
+
+```txt
+pandas
+numpy
+scikit-learn
+xgboost
+statsmodels
+pmdarima
+tensorflow
+nltk
+transformers
+cvxpy
+matplotlib
+seaborn
+yfinance
+fredapi
+beautifulsoup4
+requests
+streamlit
