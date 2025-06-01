@@ -1,17 +1,4 @@
-# Ignore system files
-.DS_Store
-Thumbs.db
-
-# Ignore Python cache
-__pycache__/
-*.py[cod]
-
-# Ignore Jupyter/IPython
-.ipynb_checkpoints/
-
-# Ignore environments
-env/
-.venv/
-myenv/
-
-# DO NOT ignore data or CSVs!
+touch "data/Layer 2 - AI Augmentation/.gitkeep"
+touch "data/Layer 3 - Sentiment Analysis/.gitkeep"
+touch "data/Layer 4 - Alternative Real-Time Data/.gitkeep"
+touch "data/Layer 5 - Geopolitical Risk Index/.gitkeep"
